@@ -70,10 +70,8 @@
 </section>
 
 		
-	</main>		
+</main>		
 
-	<div class="scroll-to-top">&#xf106;</div>
+<div class="scroll-to-top">&#xf106;</div>
 
-	</div>
-
-	
+</div>
