@@ -1,15 +1,26 @@
-<section class="section white-section section-padding-top" id="scroll-link">
-			<div class="container">
-				<div class="sixteen columns">
-					<div class="section-title">
-						<h2>WELCOME TO Clymene</h2>
-						<div class="subtitle">Multipurpose <span class="subtitle-written">HTML5</span> Template</div>
-					</div>
-				</div>
-				<div class="sixteen columns remove-bottom" data-scroll-reveal="enter bottom move 400px over 1s after 0.1s">
-					<div class="full-image">
-						<img src="images/home1.png"  alt="">
-					</div>
-				</div>
+<section class="section grey-section section-padding-top-bottom">
+	<div class="container">
+		<div class="one-third column" data-scroll-reveal="enter left move 200px over 1s after 0.3s">
+			<div class="services-boxes-1">
+				<div class="icon-box">&#xf085;</div>
+				<h6>FULLY CUSTOMIZABLE</h6>
+				<p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
 			</div>
-		</section>
+		</div>
+		<div class="one-third column" data-scroll-reveal="enter bottom move 200px over 1s after 0.3s">
+			<div class="services-boxes-1">
+				<div class="icon-box">&#xf121;</div>
+				<h6>UNLIMITED OPTIONS</h6>
+				<p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+			</div>
+		</div>
+		<div class="one-third column" data-scroll-reveal="enter right move 200px over 1s after 0.3s">
+			<div class="services-boxes-1">
+				<div class="icon-box">&#xf06e;</div>
+				<h6>RETINA READY</h6>
+				<p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+			</div>
+		</div>
+	</div>
+</section>
+

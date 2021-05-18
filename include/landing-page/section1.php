@@ -1,4 +1,4 @@
-<section class="home">
+<!--<section class="home">
 		
 			<a href="#scroll-link" class="arrow-down scroll">&#xf103;</a>
 	
@@ -89,5 +89,29 @@
 				</div>
 			</div>
 			
-		</section>	
+		</section>	-->
 
+<section class="section parallax-section parallax-section-padding-top-bottom-pagetop section-page-top-title">	
+	<div class="parallax-about"></div>	
+	<div class="container">
+		<div class="eight columns">
+			<h1>about us</h1>
+		</div>
+		<div class="eight columns">
+			<div id="owl-top-page-slider" class="owl-carousel owl-theme">
+				<div class="item">
+					<div class="page-top-icon">&#xf002;</div>
+					<div class="page-top-text">ATTENTION TO DETAILS...</div>
+				</div>
+				<div class="item">
+					<div class="page-top-icon">&#xf121;</div>
+					<div class="page-top-text">Over 34600 lines</div>
+				</div>
+				<div class="item">
+					<div class="page-top-icon">&#xf183;</div>
+					<div class="page-top-text">17 team members</div>
+				</div>
+			</div>
+		</div>
+	</div>			
+</section>	
