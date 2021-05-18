@@ -27,9 +27,7 @@
 			</div>
 			<div>
 			<?php include_once $directory . '/include/landing-page/section9.php';?>
-			</div><div>
-			<?php include_once $directory . '/include/landing-page/section10.php';?>
-			</div>
+
 			
 		</div>
 	</div>
