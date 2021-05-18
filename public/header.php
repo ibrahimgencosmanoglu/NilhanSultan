@@ -198,9 +198,9 @@
 					<li class="go-back"><a href="#0">Menu</a></li>
 					<li class="see-all"><a href="shop-all.html" class="animsition-link">Browse All</a></li>
 					<li>
-						<a class="cd-nav-item animsition-link" href="shop-1.html">
+						<a class="cd-nav-item animsition-link" href="include/pages/menu.php">
 							<img src="images/shop1.jpg" alt="Product Image">
-							<h3>men</h3>
+							<h3>menu</h3>
 						</a>
 					</li>
 
