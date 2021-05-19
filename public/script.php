@@ -1,5 +1,4 @@
-	<!-- JAVASCRIPT
-    ================================================== -->
+
 <link rel="stylesheet" href="css/owl.carousel.css"/>
 <script type="text/javascript" src="js/jquery-2.1.1.js"></script>
 <script type="text/javascript" src="js/modernizr.custom.js"></script> 
@@ -88,7 +87,6 @@
 <script type="text/javascript" src="js/custom-slider-project.js"></script>   
 <script type="text/javascript" src="js/custom-office.js"></script>
 <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=true"></script>  
-<!-- End Document
-================================================== -->
+
 </body>
 </html>	
