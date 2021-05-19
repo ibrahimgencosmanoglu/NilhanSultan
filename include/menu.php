@@ -203,15 +203,13 @@
 <!-- SECTION
 ================================================== -->	
 
-	<section class="section grey-section section-padding-top-bottom">
-	
-		<div class="container">
-			<div class="sixteen columns">
-				<div class="blog-left-right-links">
-					<a href="#"><div class="blog-left-link"><p>older</p></div></a>
-					<a href="#"><div class="blog-right-link"><p>newer</p></div></a>
-				</div>
+<section class="section grey-section section-padding-top-bottom">
+	<div class="container">
+		<div class="sixteen columns">
+			<div class="blog-left-right-links">
+				<a href="#"><div class="blog-left-link"><p>older</p></div></a>
+				<a href="#"><div class="blog-right-link"><p>newer</p></div></a>
 			</div>
 		</div>
-		
-	</section>		
+	</div>	
+</section>		

@@ -10,7 +10,7 @@
 
 <body>	
 <?php 
-include_once $directory . '/include/landing-page.php';
+include_once $directory . '/include/menu.php';
 include_once $directory . '/public/footer.php';
 include_once $directory. '/public/script.php';?>
 	    
