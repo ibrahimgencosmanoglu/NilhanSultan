@@ -1,33 +1,34 @@
-<head>
-	<meta charset="utf-8">
-	<title>Clymene</title>
-	<meta name="description" content="">
-	<meta name="author" content="">
-	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-	
-	<link rel="stylesheet" href="assets/css/base.css"/>
-	<link rel="stylesheet" href="assets/css/skeleton.css"/>
-	<link rel="stylesheet" href="assets/css/layout.css"/>
-	<link rel="stylesheet" href="assets/css/settings.css"/>
-	<link rel="stylesheet" href="assets/css/font-awesome.css" />
-	<link rel="stylesheet" href="assets/css/owl.carousel.css"/>
-	<link rel="stylesheet" href="assets/css/retina.css"/>
-	<link rel="stylesheet" href="assets/css/animsition.min.css"/>
-    <link rel="stylesheet" href="assets/css/colorbox.css"/>
-	
-	<link rel="alternate stylesheet" type="text/css" href="assets/css/colors/color-gold.css" title="1">
-    <link rel="alternate stylesheet" type="text/css" href="assets/css/colors/color-2.css" title="2">
-    <link rel="alternate stylesheet" type="text/css" href="assets/css/colors/color-3.css" title="3">
-    <link rel="alternate stylesheet" type="text/css" href="assets/css/colors/color-4.css" title="4">
-    <link rel="alternate stylesheet" type="text/css" href="assets/css/colors/color-5.css" title="5">	
-    <link rel="alternate stylesheet" type="text/css" href="assets/css/colors/color-6.css" title="6">	
-    <link rel="alternate stylesheet" type="text/css" href="assets/css/colors/color-7.css" title="7">
-	
-	<link rel="shortcut icon" href="favicon.png">
-	<link rel="apple-touch-icon" href="apple-touch-icon.png">
-	<link rel="apple-touch-icon" sizes="72x72" href="apple-touch-icon-72x72.png">
-	<link rel="apple-touch-icon" sizes="114x114" href="apple-touch-icon-114x114.png">
-	
-	
-	
+﻿<head>
+
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+
+    <link rel="shortcut icon" href="upload/TG-Thumb.png"/>
+
+    <title>Grand Restaurant | Restaurant HTML Template</title>
+
+    <link rel='stylesheet' href='/css/settings.css' type='text/css' media='all'/>
+    <link rel='stylesheet' href='/css/reset.css' type='text/css' media='all'/>
+    <link rel='stylesheet' href='css/wordpress.css' type='text/css' media='all'/>
+    <link rel='stylesheet' href='css/animation.css' type='text/css' media='all'/>
+    <link rel='stylesheet' href='css/magnific-popup.css' type='text/css' media='all'/>
+    <link rel='stylesheet' href='css/ui-custom.css' type='text/css' media='all'/>
+    <link rel='stylesheet' href='css/mediaelementplayer-legacy.min.css' type='text/css' media='all'/>
+    <link rel='stylesheet' href='css/flexslider.css' type='text/css' media='all'/>
+    <link rel='stylesheet' href='css/tooltipster.css' type='text/css' media='all'/>
+    <link rel='stylesheet' href='css/odometer-theme-minimal.css' type='text/css' media='all'/>
+    <link rel='stylesheet' href='css/hw-parallax.css' type='text/css' media='all'/>
+    <link rel='stylesheet' href='css/screen.css' type='text/css' media='all'/>
+    <link rel='stylesheet' href='css/font-awesome.min.css' type='text/css' media='all'/>
+    <!--<link rel='stylesheet' href='css/kirki-styles.css' type='text/css' media='all'/>-->
+    <link rel='stylesheet' href='css/grid.css' type='text/css' media='all'/>
+    <link rel='stylesheet' href='css/style.css' type='text/css' media='all'/>
+
+
+
+    <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Playfair+Display%3A400%2C700%2C400italic&#038;subset=latin%2Ccyrillic-ext%2Cgreek-ext%2Ccyrillic' type='text/css' media='all'/>
+    <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Lato%3A100%2C200%2C300%2C400%2C600%2C700%2C800%2C900%2C400italic&#038;subset=latin%2Ccyrillic-ext%2Cgreek-ext%2Ccyrillic' type='text/css' media='all'/>
+    <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Kristi%3A100%2C200%2C300%2C400%2C600%2C700%2C800%2C900%2C400italic&#038;subset=latin%2Ccyrillic-ext%2Cgreek-ext%2Ccyrillic' type='text/css' media='all'/>
+    <link href="https://fonts.googleapis.com/css?family=Cinzel:400%7CMontserrat:400" rel="stylesheet" property="stylesheet" type="text/css" media="all">
+
 </head>
