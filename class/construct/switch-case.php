@@ -43,6 +43,12 @@
 				_include_once('osmanli-donem-mutfaklari');
 		
 			break;
+
+			case 'osmanli-donem-mutfaklari-2';
+			
+				_include_once('osmanli-donem-mutfaklari-2');
+			
+			break;
 				
 		}
 				

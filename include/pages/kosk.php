@@ -222,10 +222,6 @@
                 </div>
                 <br class="clear" />
 
-                <br class="clear" />
-                <div class="pagination"><span class="current">1</span><a href='#' class="inactive">2</a></div>
-                <div class="pagination_detail">
-                    Page 1 of 2 </div>
 
             </div>
 
@@ -245,7 +241,7 @@
                                     </div>
                                 </li>
                                 <li id="custom_flickr-3" class="widget Custom_Flickr">
-                                    <h2 class="widgettitle">Gallery On Flickr</h2>
+                                    <h2 class="widgettitle">Galeri</h2>
                                     <ul class="flickr">
                                         <li>
                                             <a class="img_frame" target="_blank" href="upload/48544015562_9294520488_b.jpg" title="roasted carrots"><img src="upload/48544015562_9294520488_s.jpg" alt="roasted carrots" width="75" height="75" /></a>
