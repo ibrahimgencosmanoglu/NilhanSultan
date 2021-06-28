@@ -1,4 +1,4 @@
-﻿        <div class="header_style_wrapper">
+﻿<div class="header_style_wrapper">
 
             
             <div class="above_top_bar">
@@ -27,7 +27,7 @@
                     <!-- Begin logo -->
                     <div id="logo_normal" class="logo_container">
                         <div class="logo_align">
-                            <a id="custom_logo" class="logo_wrapper hidden" href="index.html">
+                            <a id="custom_logo" class="logo_wrapper hidden" href="#">
                                 <img src="upload/logo.png" alt="Grand Restaurant | Restaurant Theme" width="142" height="42" style="width:142px;height:42px;" />
                             </a>
                         </div>
@@ -35,7 +35,7 @@
 
                     <div id="logo_transparent" class="logo_container">
                         <div class="logo_align">
-                            <a id="custom_logo_transparent" class="logo_wrapper default" href="index.html">
+                            <a id="custom_logo_transparent" class="logo_wrapper default" href="#">
                                 <img src="images/dummylogo.png" alt="Grand Restaurant | Restaurant Theme" width="142" height="42" style="width:142px;height:42px;" />
                             </a>
                         </div>
@@ -46,7 +46,7 @@
                     <div class="menu_buttons_container">
                         <div class="menu_buttons_content">
                             <!-- Begin Reservation -->
-                            <a href="javascript:;" id="tg_reservation" class="button ">Reservation</a>
+                            <a href="javascript:;" id="tg_reservation" class="button ">Rezervasyon</a>
                             <!-- End Reservation -->
 
                             <!-- Begin side menu -->
@@ -63,12 +63,12 @@
                             <div id="menu_border_wrapper">
                                 <div class="menu-main-menu-container">
                                     <ul id="main_menu" class="nav">
-                                        <li class="menu-item current-menu-item"><a href="index.html" aria-current="page">Home</a></li>
-                                        <li class="menu-item"><a href="menu.html">Menu</a></li>
-                                        <li class="menu-item"><a href="more-about-us.html">About Us</a></li>
-                                        <li class="menu-item"><a href="delivery.html">Delivery</a></li>
-                                        <li class="menu-item"><a href="where-to-find-us.html">Where To Find Us</a></li>
-                                        <li class="menu-item"><a href="latest-news.html">News</a></li>
+                                        <li class="menu-item current-menu-item"><a href="?page=default" aria-current="page">Ana Sayfa</a></li>
+                                        <li class="menu-item"><a href="?page=menu" >Menü </a></li>
+                                        <li class="menu-item"><a href="?page=hakkimizda" >Hakkımızda</a></li>
+                                        <li class="menu-item"><a href="?page=osmanli-donem-mutfaklari" >Osmanlı Dönem Mutfakları</a></li>
+                                        <li class="menu-item"><a href="?page=kosk" >Köşk</a></li>
+                                        <!--<li class="menu-item"><a href="latest-news.html">News</a></li>!-->
                                     </ul>
                                 </div>
                             </div>

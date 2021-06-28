@@ -3,9 +3,8 @@
 		<div class="page_content_wrapper">
 			<div class="inner">
 				<div class="one_half parallax_scroll" style="width:40%;position:absolute;left:90px;padding:40px;z-index:2;block !important;background:#ffffff;border: 1px solid #e1e1e1;" data-stellar-ratio="1.3">
-					<h2 class="ppb_title"><span class="ppb_title_first" >Discover</span>Our Story</h2>
-					<div class="ppb_subtitle">Ultimate dining experience like no other</div>
-					<div class="page_header_sep left"></div>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi. Exercitation photo booth stumptown tote bag Banksy, elit small batch freegan sed. Craft beer elit seitan exercitation, photo booth et 8-bit kale chips proident chillwave deep v laborum. Aliquip veniam delectus, Marfa eiusmod Pinterest in do umami readymade.</div>
+					<h2 class="ppb_title"><span class="ppb_title_first" >Osmanlı </span>Dönem Mutfakları</h2>
+					<div class="page_header_sep left"></div>Padişah macunlarından, Şaman şerbetlerine kadar her yüz güldüren neşenin, mutluluk veren lezzetin menşei oldu bu topraklar. Görkemin en yüksek noktasına erişen Padişahlara, Sultanlara sunulan nice özel yiyeceklerin sırlarını sakladı binlerce yıldır. Bu toprakların lezzet sırları, şifa kültürü zamanın tahribatına karşı koyan mutfak kültürü şimdi sultanlara layık sofralarla Nilhan Sultan Köşkü Paşalimanı’nda.</div>
 				<div class="one_half parallax_scroll_image last" style="width:65%;">
 					<div class="image_classic_frame expand">
 						<div class="image_wrapper">

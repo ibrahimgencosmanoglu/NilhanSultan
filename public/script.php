@@ -29,6 +29,10 @@
 <script src='js/plugins/custom-time.js'></script>
 <script src='js/plugins/jquery.validate.js'></script>
 <script type='text/javascript'>
+
+<script type='text/javascript' src='js/plugins/widget.min.js'></script>
+<script type='text/javascript' src='js/plugins/accordion.min.js'></script>
+<script type='text/javascript' src='js/plugins/custom-shortcodes.js'></script>
 	/* <![CDATA[ */
 	var tgAjax = {
 		"ajaxurl": "#",
