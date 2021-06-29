@@ -1,4 +1,5 @@
 ﻿<!DOCTYPE html>
+
 <html lang="en-US" data-menu="classicmenu">
 
 	<?php include_once 'public/head.php' ?>
@@ -29,42 +30,68 @@
 	<?php include_once 'public/mobile-menu.php'; ?>
 	<?php include_once 'public/header.php'; ?>
 	
-	
-    <!-- Begin template wrapper -->
     <div id="wrapper" class="hasbg">
 		
     <?php include_once 'public/reservation.php';?>
 
-
-
-        <div class="ppb_wrapper  ">
-            <?php 
-                //_switch_page();
-                //include_once 'include/landing-page.php';
-				include_once 'include/landing-page/story-1.php';
-				include_once 'include/landing-page/story-2.php';
-			    include_once 'include/landing-page/story-3.php';
-                //include_once 'include/pages/menu.php';
-                //include_once 'include/pages/osmanli-donem-mutfaklari.php';
-                //include_once 'include/pages/osmanli-donem-mutfaklari-2.php';
-                //include_once 'include/pages/hakkimizda.php';
-                //include_once 'include/pages/kosk.php'
-                include_once 'include/landing-page/story-4.php';
-                include_once 'include/landing-page/story-5.php';
-                include_once 'include/landing-page/story-6.php';
-                include_once 'include/landing-page/story-7.php'; //??????? ANLAMADIM
-			?>
-        </div>
+	<div class="ppb_wrapper">
         
-		<?php
-		
+	<?php 
+
+		if(!isset( $_GET['page'])) {$page = 'default';} else {$page = $_GET['page'];}
+
+		switch($page) {
 			
+			case 'default';
 
-		?>
-        
+				include_once 'include/landing-page.php';
+
+			break;
+			
+			case 'menu';
+			
+				include_once 'include/pages/menu.php';
+		
+			break;
+
+			case 'hakkimizda';
+			
+				include_once 'include/pages/hakkimizda.php';
+		
+			break;
+
+			case 'kosk';
+			
+				include_once 'include/pages/kosk.php';
+		
+			break;
+
+			case 'osmanli-donem-mutfaklari';
+			
+				include_once 'include/pages/osmanli-donem-mutfaklari.php';
+		
+			break;
+			
+			case 'osmanli-donem-mutfaklari-devami';
+			
+				include_once 'include/pages/osmanli-donem-mutfaklari-devami.php';
+		
+			break;
+
+			case 'osmanli-donem-mutfaklari-2';
+			
+				include_once 'include/pages/osmanli-donem-mutfaklari-2.php';
+			
+			break;
+				
+		}							
+
+
+	?>
+		
     </div>
 
-		<?php include_once 'public/footer.php';?>
+	<?php include_once 'public/footer.php';?>
 
     </div>
 

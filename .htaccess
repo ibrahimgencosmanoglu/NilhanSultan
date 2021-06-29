@@ -1,0 +1,8 @@
+## REWRITE DEFAULTS
+RewriteEngine On
+RewriteBase /
+
+## SEO REWRITES
+RewriteRule ^([a-zA-Z0-9-z\-\_]+)/?$ index.php?page=$1 [L,QSA]
+RewriteRule ^([a-zA-Z0-9-z\-\_]+)/([a-zA-Z0-9-z\-\_]+)/?$ index.php?page=$1&panel=$2 [L,QSA]
+RewriteRule ^([a-zA-Z0-9-z\-\_]+)/([a-zA-Z0-9-z\-\_]+)/([a-zA-Z0-9-z\-\_]+)/?$ index.php?page=$1&panel=$2&section=$3 [L,QSA]

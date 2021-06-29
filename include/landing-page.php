@@ -3,7 +3,7 @@
     include_once 'include/landing-page/story-2.php';
     include_once 'include/landing-page/story-3.php';
  ?>
-</div>
+
 <?php 
     include_once 'include/landing-page/story-4.php';
 	include_once 'include/landing-page/story-5.php';

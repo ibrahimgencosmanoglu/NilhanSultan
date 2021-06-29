@@ -8,8 +8,6 @@
 		
 		if(!isset( $_GET['page'])) {$page = 'default';} else {$page = $_GET['page'];}
 		
-		if(!isset( $_GET['panel'])) {$panel = 'default';} else {$panel = $_GET['panel'];}		
-		
 		/* CUSTOM */
 
 		switch($page) {
