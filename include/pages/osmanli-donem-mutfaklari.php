@@ -5,8 +5,6 @@
         <!-- Begin main content -->
         <div class="inner_wrapper">
 
-            <div class="page_content_wrapper"></div>
-
             <div class="sidebar_content full_width">
 
                 <!-- Begin each blog post -->
@@ -19,43 +17,274 @@
                             <div class="post_header">
                                 <div class="post_header_title">
                                     <h5><a href="#" title="Black Spaghetti with Rock Shrimp">Doğadan Beslenen Geleneksel Şifa Sofrası</a></h5>
-                                    <div class="post_detail">
-                                        <span class="post_readmore">
-                        <a class="readmore" href="?page=osmanli-donem-mutfaklari-devami">Devamı</a>
-                    </span>
-                                    </div>
-                                </div>
 
+                                </div>
                                 <div class="post_img static">
                                     <a href="#">
                                         <img src="/images/deneme-yemek-2.jpg" alt="" class="" style="width:960px;height:365px;" />
                                     </a>
                                 </div>
-
                                 <br class="clear" />
-
                                 <p>Günümüz Türk mutfağı iki bölümden oluşur: Saray Mutfağı ve Yöresel Mutfak. 13. yüzyıldan 20. yüzyıla kadar varlığını sürdüren Osmanlı Devleti’nin mutfak kültürü, tarih boyunca geniş coğrafyalara yayılmasıyla birlikte büyük dönüşüm yaşadı.</p>
-                            </div>
-                            <div class="post_share_bubble">
-                                <div class="post_share_bubble_wrapper">
-                                    <div id="share_post_490" class="social_share_bubble inline">
-                                        <ul>
-                                            <li><a title="Share On Facebook" target="_blank" href="#"><i class="fa fa-facebook"></i></a></li>
-                                            <li><a title="Share On Twitter" target="_blank" href="#"><i class="fa fa-twitter"></i></a></li>
-                                            <li><a title="Share On Pinterest" target="_blank" href="#"><i class="fa fa-pinterest"></i></a></li>
-                                            <li><a title="Share On Google+" target="_blank" href="#"><i class="fa fa-google-plus"></i></a></li>
-                                        </ul>
+                                    <div class="post_detail">
+                                        <span class="post_readmore"><a class="readmore" href="?page=osmanli-donem-mutfaklari-devami">Devamı</a></span>
                                     </div>
-                                </div> <a href="javascript:;" class="post_share" data-share="share_post_490" data-parent="post-490"><i class="fa fa-share-alt"></i></a>
                             </div>
-
                         </div>
-
                     </div>
 
                 </div>
                 <br class="clear" />
                 <!-- End each blog post -->
+            </div>
+
+            <br class="clear" />
+        </div>
+    </div>
+    <br class="clear" />
+    <br/>
+</div>
+<div class="ppb_wrapper hasbg withtopbar">
+    <div class="one ppb_menu_with_image" style="position:relative;padding:40px 0 40px 0;">
+        <div class="standard_wrapper">
+            <div class="page_content_wrapper">
+                <div class="inner">
+                    <div class="one_half parallax_scroll" style="width:40%;position:absolute;left:90px;background:#ffffff;padding:40px;z-index:2;" data-stellar-ratio="1.3">
+                        <h2 class="ppb_menu_title">Kuzu Kapama</h2>
+                        <div id="menu_2878" class="menu_content_classic">
+                            <h5 class="menu_post">
+                                <span class="menu_title" style="background:#ffffff;">Kuzu Kapama geleneklerimizi, tarihimizi özetleyen çok ilginç bir hikâyeye sahiptir. Bir zamanlar bir kadın kuzu etinden oldukça leziz bir yemek yapar. Çocuklarına bu leziz yemekten biraz yedirir. Az miktarda kalan eti, mutfağında saklar. Acıkan kaynanası karnını doyurmak için mutfağa geldiğinde üstü kapanmış eti görür ve gelinine neden kuzuyu kapattığını sorar. Kadın da “Oğlun aç gelecek ne yapayım, ben de kuzuyu kapattım.” der. Osmanlı halk mutfağının en sevilen lezzetlerinden biri olan ve son dönemlerinde Saray Mutfağı’nda da yer alan Kuzu Kapama’nın etkileyici hikâyesi böyledir. </span>
+                                <span class="menu_dots"></span>
+                            <div class="post_detail menu_excerpt"></div>
+                        </div>
+                        
+                    </div>
+                    <div class="one_half parallax_scroll_image last" style="width:65%;">
+                        <div class="image_classic_frame expand">
+                            <div class="image_wrapper">
+                                <a href="upload/223_1r140806_eat_spots_sobanndls.jpg" class="img_frame"><img src="images/1440x960-dummy1.jpg" class="portfolio_img" alt="" /></a>
+                            </div>
+                        </div>
+                    </div>
+                    <br class="clear" />
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="divider one">&nbsp;</div>
+    <div class="divider one">&nbsp;</div>
+
+    <div class="one ppb_menu_with_image" style="position:relative;padding:40px 0 40px 0;">
+        <div class="standard_wrapper">
+            <div class="page_content_wrapper">
+                <div class="inner">
+                    <div class="one_half parallax_scroll" style="width:40%;position:absolute;left:90px;background:#ffffff;padding:40px;z-index:2;" data-stellar-ratio="1.3">
+                        <h2 class="ppb_menu_title">Karidesli Börek</h2>
+                        <div id="menu_2878" class="menu_content_classic">
+                            <h5 class="menu_post">
+                                <span class="menu_title" style="background:#ffffff;">Fatih Sultan Mehmet döneminin masraf defterine bakıldığında balık, istiridye, karides gibi deniz ürünlerine çok fazla rastlamaktayız. Bu da bu yıllarda deniz ürünlerine verilen önemi gözler önüne sermektedir. Ancak sonradan mutfağımıza dahil olan bu besinlerin özellikle Ramazan ayında çok fazla tüketilmediği gözlenmektedir. Sebebi de rivayete göre bir balığın söylediği şu sözlerdir: “Beni yiyen doymasın, beni tutan olmasın.” Bu rivayetle ilgili olarak balığın tok tutmayacağı düşüncesi yayılmış ve Ramazan ayında deniz ürünleri tüketiminin azaldığı gözlenmiştir. 
+                                Ancak karidesli böreğin mutfağımızdaki yeri çok farklıdır. Çünkü Osmanlı mutfağında pişirilen hamur işlerine bakıldığında bu lezzet dışında deniz ürünlerinin kullanıldığı herhangi bir börek ya da çörek çeşidi yoktur. 
+                                </span>
+                                <span class="menu_dots"></span>
+                            <div class="post_detail menu_excerpt"></div>
+                        </div>
+                        
+                    </div>
+                    <div class="one_half parallax_scroll_image last" style="width:65%;">
+                        <div class="image_classic_frame expand">
+                            <div class="image_wrapper">
+                                <a href="upload/223_1r140806_eat_spots_sobanndls.jpg" class="img_frame"><img src="images/1440x960-dummy1.jpg" class="portfolio_img" alt="" /></a>
+                            </div>
+                        </div>
+                    </div>
+                    <br class="clear" />
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="divider one">&nbsp;</div>
+    <div class="divider one">&nbsp;</div>
+
+    <div class="one ppb_menu_with_image" style="position:relative;padding:40px 0 40px 0;">
+        <div class="standard_wrapper">
+            <div class="page_content_wrapper">
+                <div class="inner">
+                    <div class="one_half parallax_scroll" style="width:40%;position:absolute;left:90px;background:#ffffff;padding:40px;z-index:2;" data-stellar-ratio="1.3">
+                        <h2 class="ppb_menu_title">Sütlü Dil Balığı Güveci</h2>
+                        <div id="menu_2878" class="menu_content_classic">
+                            <h5 class="menu_post">
+                                <span class="menu_title" style="background:#ffffff;">Rivayete göre II. Abdülhamid, lüfer balığının yanağında bulunan eti çok sevdiği ve kendisi için özel hazırlanıp sunulduğu bilinmektedir. Sütle yapılan balık ve et yemeklerinin ayrı bir inceliğinin olduğu bilinmektedir. Osmanlı mutfağında pişirilmeden evvel ete nüfuz ettirilen süt, pişirilirken de kuş tüyü ile yeniden ete sürülürdü.</span>
+                                <span class="menu_dots"></span>
+                            <div class="post_detail menu_excerpt"></div>
+                        </div>
+                        
+                    </div>
+                    <div class="one_half parallax_scroll_image last" style="width:65%;">
+                        <div class="image_classic_frame expand">
+                            <div class="image_wrapper">
+                                <a href="upload/223_1r140806_eat_spots_sobanndls.jpg" class="img_frame"><img src="images/1440x960-dummy1.jpg" class="portfolio_img" alt="" /></a>
+                            </div>
+                        </div>
+                    </div>
+                    <br class="clear" />
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="divider one">&nbsp;</div>
+    <div class="divider one">&nbsp;</div>
+
+    <div class="one ppb_menu_with_image" style="position:relative;padding:40px 0 40px 0;">
+        <div class="standard_wrapper">
+            <div class="page_content_wrapper">
+                <div class="inner">
+                    <div class="one_half parallax_scroll" style="width:40%;position:absolute;left:90px;background:#ffffff;padding:40px;z-index:2;" data-stellar-ratio="1.3">
+                        <h2 class="ppb_menu_title">İstanbul Pilavı</h2>
+                        <div id="menu_2878" class="menu_content_classic">
+                            <h5 class="menu_post">
+                                <span class="menu_title" style="background:#ffffff;">Osmanlı Sultanları ve halk, pilavı çok severdi; hatta sultanların adları bile verilirdir bu pilavlara. Ali Paşa Pilavı, Sultan Reşat Pilavı…
+                                Sarayın muhasebe kayıtlarına bakıldığında bir senede tonlarca pilav tüketildiği bilinmektedir. Ayrıca çeşit çeşittir de Osmanlı mutfağının pilavları. Mesela Evliya Çelebi Seyahatnâme’sinde Bitlis Beyi’nin halka verdiği bir ziyafette keklik pilavı, çilav, derman, dut, badem pilavı gibi toplamda 13 tür pilav çeşidi saymıştır. Böylesine sevilen pilavlardan biridir İstanbul Pilavı da. Bol sebzeli, lezzetli…</span>
+                                <span class="menu_dots"></span>
+                            <div class="post_detail menu_excerpt"></div>
+                        </div>
+                        
+                    </div>
+                    <div class="one_half parallax_scroll_image last" style="width:65%;">
+                        <div class="image_classic_frame expand">
+                            <div class="image_wrapper">
+                                <a href="upload/223_1r140806_eat_spots_sobanndls.jpg" class="img_frame"><img src="images/1440x960-dummy1.jpg" class="portfolio_img" alt="" /></a>
+                            </div>
+                        </div>
+                    </div>
+                    <br class="clear" />
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="divider one">&nbsp;</div>
+    <div class="divider one">&nbsp;</div>
+
+    <div class="one ppb_menu_with_image" style="position:relative;padding:40px 0 40px 0;">
+        <div class="standard_wrapper">
+            <div class="page_content_wrapper">
+                <div class="inner">
+                    <div class="one_half parallax_scroll" style="width:40%;position:absolute;left:90px;background:#ffffff;padding:40px;z-index:2;" data-stellar-ratio="1.3">
+                        <h2 class="ppb_menu_title">Soğanlı Muska Böreği</h2>
+                        <div id="menu_2878" class="menu_content_classic">
+                            <h5 class="menu_post">
+                                <span class="menu_title" style="background:#ffffff;">Osmanlı mutfağının en eski ve en sevilen böreklerinden biridir Soğanlı Muska Böreği. Saray mutfağında da halk mutfağında da oldukça popülerdir. Özellikle 18. ve 19. yüzyıllarda çok fazla yapılan bir lezzet olarak bilinen Soğanlı Muska Böreği, günümüzde unutulan, eski popülerliğini yitiren hamur işlerinden biridir. Osmanlı mutfağı börekleri, İsveçli Tarihçi Ignatius Mouradgea d’Ohsson’un 1788 senesinde yayımlanan kitabında bile yer alır. Böreklerin halkın çok sevdiği yemeklerden biri olduğundan; lezzeti, hafifliği ve kat kat yapraklı olması sebebiyle Avrupa pastalarına benzediğinden ve et, meyve, sebze gibi her türlü besin kaynağı kullanılarak yapıldığından bahsetmiştir.</span>
+                                <span class="menu_dots"></span>
+                            <div class="post_detail menu_excerpt"></div>
+                        </div>
+                        
+                    </div>
+                    <div class="one_half parallax_scroll_image last" style="width:65%;">
+                        <div class="image_classic_frame expand">
+                            <div class="image_wrapper">
+                                <a href="upload/223_1r140806_eat_spots_sobanndls.jpg" class="img_frame"><img src="images/1440x960-dummy1.jpg" class="portfolio_img" alt="" /></a>
+                            </div>
+                        </div>
+                    </div>
+                    <br class="clear" />
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="divider one">&nbsp;</div>
+    <div class="divider one">&nbsp;</div>
+
+    <div class="one ppb_menu_with_image" style="position:relative;padding:40px 0 40px 0;">
+        <div class="standard_wrapper">
+            <div class="page_content_wrapper">
+                <div class="inner">
+                    <div class="one_half parallax_scroll" style="width:40%;position:absolute;left:90px;background:#ffffff;padding:40px;z-index:2;" data-stellar-ratio="1.3">
+                        <h2 class="ppb_menu_title">Keşkül-ü Fukara</h2>
+                        <div id="menu_2878" class="menu_content_classic">
+                            <h5 class="menu_post">
+                                <span class="menu_title" style="background:#ffffff;">Rivayete göre keşkül adı verilen kaplara tatlı konularak dağıtıldığı için bu isimle adlandırılmıştır Keşkül-ü Fukara. Bir başka hikâyeye göre de bu tatlı ismini Osmanlı döneminde kazanlarla yapılan, fakirlere dağıtıldığı için Yoksul Çanağı olarak da bilinen Keşkül-ü Fukara’dan almıştır. Eski bir Anadolu geleneği olan tatlıların üzerine kuruyemiş koyma adetine bağlı kalan bol badem ve Antep fıstıklı enfes bir Osmanlı tatlısıdır.</span>
+                                <span class="menu_dots"></span>
+                            <div class="post_detail menu_excerpt"></div>
+                        </div>
+                        
+                    </div>
+                    <div class="one_half parallax_scroll_image last" style="width:65%;">
+                        <div class="image_classic_frame expand">
+                            <div class="image_wrapper">
+                                <a href="upload/223_1r140806_eat_spots_sobanndls.jpg" class="img_frame"><img src="images/1440x960-dummy1.jpg" class="portfolio_img" alt="" /></a>
+                            </div>
+                        </div>
+                    </div>
+                    <br class="clear" />
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="divider one">&nbsp;</div>
+    <div class="divider one">&nbsp;</div>
+
+    <div class="one ppb_menu_with_image" style="position:relative;padding:40px 0 40px 0;">
+        <div class="standard_wrapper">
+            <div class="page_content_wrapper">
+                <div class="inner">
+                    <div class="one_half parallax_scroll" style="width:40%;position:absolute;left:90px;background:#ffffff;padding:40px;z-index:2;" data-stellar-ratio="1.3">
+                        <h2 class="ppb_menu_title">Lalanga</h2>
+                        <div id="menu_2878" class="menu_content_classic">
+                            <h5 class="menu_post">
+                                <span class="menu_title" style="background:#ffffff;">Eski Bizanslıların “lalagia” olarak isimlendirdikleri, günümüz Avrupa ülkelerinde de krep olarak adlandırılan çok sevilen bir hamur işidir. Bizans zenginleri bunu bala batırarak yerken Osmanlı saray mutfağında da en çok peynir ve balla yenirdi. Bal, pekmez, kaymak, şurup gibi malzemelerle tatlı olarak; peynir, kıyma, patates, tavuk gibi besinlerle de tuzlu olarak tüketilen Lalanga, tarihi en eskilere dayanan lezzetlerimizden biri.</span>
+                                <span class="menu_dots"></span>
+                            <div class="post_detail menu_excerpt"></div>
+                        </div>
+                        
+                    </div>
+                    <div class="one_half parallax_scroll_image last" style="width:65%;">
+                        <div class="image_classic_frame expand">
+                            <div class="image_wrapper">
+                                <a href="upload/223_1r140806_eat_spots_sobanndls.jpg" class="img_frame"><img src="images/1440x960-dummy1.jpg" class="portfolio_img" alt="" /></a>
+                            </div>
+                        </div>
+                    </div>
+                    <br class="clear" />
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="divider one">&nbsp;</div>
+    <div class="divider one">&nbsp;</div>
+
+    <div class="one ppb_menu_with_image" style="position:relative;padding:40px 0 40px 0;">
+        <div class="standard_wrapper">
+            <div class="page_content_wrapper">
+                <div class="inner">
+                    <div class="one_half parallax_scroll" style="width:40%;position:absolute;left:90px;background:#ffffff;padding:40px;z-index:2;" data-stellar-ratio="1.3">
+                        <h2 class="ppb_menu_title">Höşmerim</h2>
+                        <div id="menu_2878" class="menu_content_classic">
+                            <h5 class="menu_post">
+                                <span class="menu_title" style="background:#ffffff;">Evliya Çelebi, meşhur Seyahatnâme’sinde bu eşsiz lezzetin Trabzon’a yerleşen ilk Türk göçebelerinde görüldüğünden bahseder. Ayrıca ilk höşmerimin Orta Asya’dan göçen Anadolu Yörükleri’nin yaptığı da bilinmektedir. Çeşitli yöreler de “Peynir Tatlısı” olarak da adlandırılan höşmerimin halk arasında çokça dillendirilen bir hikâyesi vardır. Buna göre eskiden saygı göstergesi olarak kadınlar eşlerine “Erim” şeklinde hitap ederlermiş. Fazla yiyeceği olmayan bir gelin, askerden yeni gelen eşine evinde olan irmik, peynir, şekerden bu tatlıyı yapıp sunmuş. Sunarken de “Beğendin mi eşim?” anlamına gelen “Hoş mu erim?” sorusunu sormuş. Bu soru günümüze gelene dek Höşmerim’e dönüşmüş.</span>
+                                <span class="menu_dots"></span>
+                            <div class="post_detail menu_excerpt"></div>
+                        </div>
+                        
+                    </div>
+                    <div class="one_half parallax_scroll_image last" style="width:65%;">
+                        <div class="image_classic_frame expand">
+                            <div class="image_wrapper">
+                                <a href="upload/223_1r140806_eat_spots_sobanndls.jpg" class="img_frame"><img src="images/1440x960-dummy1.jpg" class="portfolio_img" alt="" /></a>
+                            </div>
+                        </div>
+                    </div>
+                    <br class="clear" />
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
 <div class="ppb_wrapper hasbg withtopbar">
     <div class="ppb_portfolio one nopadding " style="padding:0px 0 0px 0;">
@@ -67,12 +296,13 @@
                             <div class="grid_image_frame">
                                 <div id="menu_3196" class="menu_content_classic center">
                                     <h5 class="menu_post">
+                                        <span ><h2 class="white-text" style="color: white;">15. YÜZYIL</h2></span>
+                                        </br>
                                         <span class="menu_title">Kebab-ı Makiyan</span>
                                     </h5>
-                                    <div class="post_detail menu_excerpt">1469’da Osmanlı mutfağının en önemli öznelerinden biri olan bu yemek, yenibahar ve sirkeyle sotelenen soğan yatağında yapılan tarçınlı ızgara tavuk filetoları olarak bilinen en sevilen Osmanlı tatlarından biridir. </div>
+                                    <div class="post_detail menu_excerpt">Kebab-ı Makiyan: 1469’da Osmanlı mutfağının en önemli öznelerinden biri olan bu yemek, özel olarak pişirilir. </div>
                                     <br class="clear" />
                                     <br/>
-                                    <div class="menu_order"><a href="#">15.yy</a></div>
                                 </div>
                             </div>
                         </div><img src="/images/deneme-yemek.jpg" alt="" /></div>
@@ -83,12 +313,13 @@
                             <div class="grid_image_frame">
                                 <div id="menu_3197" class="menu_content_classic center">
                                     <h5 class="menu_post">
+                                        <span ><h2 class="white-text" style="color: white;">15. YÜZYIL</h2></span>
+                                        </br>
                                         <span class="menu_title">Hums Lokması</span>
                                     </h5>
-                                    <div class="post_detail menu_excerpt">15. yüzyılın bir başka sevilen lezzeti Hums Lokması, kuş üzümü ve tarçınla hazırlanan nohut ezmesidir. Protein yüklü olan bu lezzet hem tadıyla hem de doyuruculuğuyla geçmişten günümüze taşınan en leziz yemeklerden biridir.</div>
+                                    <div class="post_detail menu_excerpt">15. yüzyılın bir başka sevilen lezzeti Hums Lokması, kuş üzümü ve tarçınla hazırlanan nohut ezmesidir. </div>
                                     <br class="clear" />
                                     <br/>
-                                    <div class="menu_order"><a href="#">15.yy</a></div>
                                 </div>
                             </div>
                         </div><img src="/images/deneme-yemek.jpg" alt="" /></div>
@@ -99,12 +330,13 @@
                             <div class="grid_image_frame">
                                 <div id="menu_3190" class="menu_content_classic center">
                                     <h5 class="menu_post">
+                                        <span ><h2 class="white-text" style="color: white;">15. YÜZYIL</h2></span>
+                                        </br>
                                         <span class="menu_title">Karidye Pilakisi</span>
                                     </h5>
-                                    <div class="post_detail menu_excerpt">1473 senesinde Topkapı Sarayı’nda ortaya çıkarılan bu lezzet, kabuklu deniz ürünlerinden karides ile havuç, soğan, sarımsak ve sirkeli zeytinyağlı pilakinin bir araya gelmesiyle oluşan eşsiz lezzetlerden biridir.</div>
+                                    <div class="post_detail menu_excerpt">1473 senesinde Topkapı Sarayı’nda ortaya çıkarılan bu lezzet, kabuklu deniz ürünlerinden oluşur.</div>
                                     <br class="clear" />
                                     <br/>
-                                    <div class="menu_order"><a href="#">15.yy</a></div>
                                 </div>
                             </div>
                         </div><img src="/images/deneme-yemek.jpg" alt="" /></div>
@@ -115,12 +347,13 @@
                             <div class="grid_image_frame">
                                 <div id="menu_3191" class="menu_content_classic center">
                                     <h5 class="menu_post">
+                                        <span ><h2 class="white-text" style="color: white;">15. YÜZYIL</h2></span>
+                                        </br>
                                         <span class="menu_title">Borani-i Hassa</span>
                                     </h5>
-                                    <div class="post_detail menu_excerpt">Karidye Pilakisi ile aynı sene yine Topkapı Sarayı’nda ortaya çıkan bir başka lezzet Borani-i Hassa. Soğan, yumurta, pirinç ve yoğurtlu ıspanak gibi son derece sağlıklı besin kaynaklarının bir araya geldiği lezzet, Türk mutfağının kökü en eskilere dayanan yemeklerinden biridir.</div>
+                                    <div class="post_detail menu_excerpt">Soğan, yumurta, pirinç ve yoğurtlu ıspanak ile yapılan Türk mutfağının köklü yemeklerinden biridir. </div>
                                     <br class="clear" />
                                     <br/>
-                                    <div class="menu_order"><a href="#">15.yy</a></div>
                                 </div>
                             </div>
                         </div><img src="/images/deneme-yemek.jpg" alt="" /></div>
@@ -131,14 +364,14 @@
                             <div class="grid_image_frame">
                                 <div id="menu_3192" class="menu_content_classic center">
                                     <h5 class="menu_post">
+                                        <span ><h2 class="white-text" style="color: white;">16. YÜZYIL</h2></span>
+                                        </br>
                                         <span class="menu_title">Ballı Mahmudiye</span>
                                     </h5>
-                                    <div class="post_detail menu_excerpt">16. yüzyılda en şaşaalı dönemini yaşayan Osmanlı İmparatorluğu’nun mutfağı da en görkemli günlerini yaşamaya başlamıştır. Bu dönemin en sevilen lezzetlerinden biri olan Ballı Mahmudiye de 1539’da ortaya çıkan geleneksel yemeklerimizden biridir. 
-                                    Tarçın, karanfil, kayısı ve Rezaki üzümü ve bademle bir araya gelen bu piliç yahnisi, sağlığa olan faydası ve damaklarda bıraktığı eşsiz lezzetle en sevilen yemeklerimizdendir. 
+                                    <div class="post_detail menu_excerpt">16. en sevilen lezzetlerinden biri olan Ballı Mahmudiye tarçın, karanfil, kayısı ve Rezaki üzümü ve bademle bir araya gelen bir piliç yahnisidir.  
                                     </div>
                                     <br class="clear" />
                                     <br/>
-                                    <div class="menu_order"><a href="#">16.yy</a></div>
                                 </div>
                             </div>
                         </div><img src="/images/deneme-yemek.jpg" alt="" /></div>
@@ -149,12 +382,13 @@
                             <div class="grid_image_frame">
                                 <div id="menu_3193" class="menu_content_classic center">
                                     <h5 class="menu_post">
+                                        <span ><h2 class="white-text" style="color: white;">16. YÜZYIL</h2></span>
+                                        </br>
                                         <span class="menu_title">Dane-i Sarı</span>
                                     </h5>
-                                    <div class="post_detail menu_excerpt">Adını tarifinde bulunan safranın rengi sarıdan alan ve Türk mutfağının vazgeçilmez baklagillerinden biri olan nohutla harmanlanan leziz bir pilavdır 1539 tarihli bu lezzetimiz. </div>
+                                    <div class="post_detail menu_excerpt">Adını tarifinde bulunan safranın rengi sarıdan alan leziz bir pilavdır.  </div>
                                     <br class="clear" />
                                     <br/>
-                                    <div class="menu_order"><a href="#">16.yy</a></div>
                                 </div>
                             </div>
                         </div><img src="/images/deneme-yemek.jpg" alt="" /></div>
@@ -165,12 +399,13 @@
                             <div class="grid_image_frame">
                                 <div id="menu_3194" class="menu_content_classic center">
                                     <h5 class="menu_post">
+                                        <span ><h2 class="white-text" style="color: white;">18. YÜZYIL</h2></span>
+                                        </br>
                                         <span class="menu_title">Kıyma Püryani Yufkada</span>
                                     </h5>
-                                    <div class="post_detail menu_excerpt">Türk mutfağının vazgeçilmez tatlarından biri olan köfte, Osmanlı’dan günümüze taşınan yemeklerden biridir. 1764 yılında ortaya çıkan Kıyma Püryani Yufkada ise anason, tarçın, Antep fıstığı ile lezzetlendirilen kuzu ya da dana etinden yapılan geleneksel köftelerimizden biridir</div>
+                                    <div class="post_detail menu_excerpt">1764 yılında ortaya çıkan yemek özel baharatlarla zenginleşen geleneksel köftelerimizden biridir.</div>
                                     <br class="clear" />
                                     <br/>
-                                    <div class="menu_order"><a href="#">18.yy</a></div>
                                 </div>
                             </div>
                         </div><img src="/images/deneme-yemek.jpg" alt="" /></div>
@@ -181,12 +416,13 @@
                             <div class="grid_image_frame">
                                 <div id="menu_3195" class="menu_content_classic center">
                                     <h5 class="menu_post">
+                                        <span ><h2 class="white-text" style="color: white;">19. YÜZYIL</h2></span>
+                                        </br>
                                         <span class="menu_title">Vişneli Yaprak Sarması</span>
                                     </h5>
-                                    <div class="post_detail menu_excerpt">Türk mutfağının en meşakkatli yemeklerinden biri olan sarma, geçmişten bugüne birçok şekilde lezzetlendirilmiş, birçok tatla çeşitlendirilmiştir. 1844 tarihli Vişneli Yaprak Sarması da en sağlıklı meyvelerimizden biri olan vişnenin sarma ile bir araya getirildiği eşsiz zeytinyağlılarımızdan biridir.</div>
+                                    <div class="post_detail menu_excerpt">1844 tarihli Vişneli Yaprak Sarması da en sağlıklı meyvelerimizden biri olan vişnenin sarma ile bir araya getirildiği eşsiz zeytinyağlılarımızdan biridir. </div>
                                     <br class="clear" />
                                     <br/>
-                                    <div class="menu_order"><a href="#">19.yy</a></div>
                                 </div>
                             </div>
                         </div><img src="/images/deneme-yemek.jpg" alt="" /></div>
@@ -197,12 +433,13 @@
                             <div class="grid_image_frame">
                                 <div id="menu_3196" class="menu_content_classic center">
                                     <h5 class="menu_post">
+                                        <span ><h2 class="white-text" style="color: white;">19. YÜZYIL</h2></span>
+                                        </br>
                                         <span class="menu_title">Gerdaniyye</span>
                                     </h5>
-                                    <div class="post_detail menu_excerpt">Et ile sebze ve baharatın harmanlandığı en sevilen lezzetlerden biridir Gerdaniyye. Beyinli kuzu gerdan sarması ile yapılan bu yemek, tam bir şifa kaynağı olan siyah, ekşi erik asidesi ile birlikte servis edilmektedir.</div>
+                                    <div class="post_detail menu_excerpt"> Et ile sebze ve baharatın harmanlandığı en sevilen lezzetlerden biridir.</div>
                                     <br class="clear" />
                                     <br/>
-                                    <div class="menu_order"><a href="#">19.yy</a></div>
                                 </div>
                             </div>
                         </div><img src="/images/deneme-yemek.jpg" alt="" /></div>
@@ -213,12 +450,13 @@
                             <div class="grid_image_frame">
                                 <div id="menu_3196" class="menu_content_classic center">
                                     <h5 class="menu_post">
+                                        <span ><h2 class="white-text" style="color: white;">19. YÜZYIL</h2></span>
+                                        </br>
                                         <span class="menu_title">Kuzu Kol Tandır, Firik Pilavı</span>
                                     </h5>
-                                    <div class="post_detail menu_excerpt">Pilav ile etin bir araya getirildiği tarifsiz lezzetlerden biridir. Sunumuyla, tadıyla Türk mutfağının yıldız menülerinden biri olarak bilinen Kuzu Kol Tandır, Firik Pilavı; sofraların en sevilen yemeklerinden.</div>
+                                    <div class="post_detail menu_excerpt">Sunumuyla, tadıyla Türk mutfağının yıldız menülerinden biri olarak bilinen Kuzu Kol Tandır, Firik Pilavı; sofraların en sevilen yemeklerinden.</div>
                                     <br class="clear" />
                                     <br/>
-                                    <div class="menu_order"><a href="#">19.yy</a></div>
                                 </div>
                             </div>
                         </div><img src="/images/deneme-yemek.jpg" alt="" /></div>
@@ -229,12 +467,13 @@
                             <div class="grid_image_frame">
                                 <div id="menu_3196" class="menu_content_classic center">
                                     <h5 class="menu_post">
+                                        <span ><h2 class="white-text" style="color: white;">19. YÜZYIL</h2></span>
+                                        </br>
                                         <span class="menu_title">Lor Mahlutu</span>
                                     </h5>
-                                    <div class="post_detail menu_excerpt">1898 tarihli bu lezzet biberiye ve pul biberle tatlandırılan, taze soğan, maydanoz, sivri biber ve domatesle harmanlanan sağlık dolu lor peyniridir. </div>
+                                    <div class="post_detail menu_excerpt">1898 tarihli bu lezzet baharat, taze soğan, maydanoz, sivri biber ve domatesle harmanlanan sağlık dolu lor peyniridir.</div>
                                     <br class="clear" />
                                     <br/>
-                                    <div class="menu_order"><a href="#">19.yy</a></div>
                                 </div>
                             </div>
                         </div><img src="/images/deneme-yemek.jpg" alt="" /></div>
@@ -243,18 +482,4 @@
         </div>
     </div>
 </div>
-                    <br class="clear" />
-                    <div class="pagination"><span class="current">1</span><a href="?page=osmanli-donem-mutfaklari-2" class="inactive">2</a></div>
-                    <div class="pagination_detail">
-                        Page 1 of 2 </div>
-
-                </div>
-
-            </div>
-
-            <!-- End main content -->
-
-        </div>
-        <br class="clear" />
-        <br/>
-    </div>
+<!-- End main content -->
