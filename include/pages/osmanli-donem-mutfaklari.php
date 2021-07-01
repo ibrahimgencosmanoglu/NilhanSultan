@@ -1,44 +1,37 @@
-<!-- Begin content -->
 <div id="page_content_wrapper" class="hasbg withtopbar ">
     <div class="inner">
-
-        <!-- Begin main content -->
         <div class="inner_wrapper">
-
             <div class="sidebar_content full_width">
-
-                <!-- Begin each blog post -->
                 <div id="post-490" class="post-490 post type-post status-publish format-standard has-post-thumbnail hentry category-italine tag-recipe tag-shrimp tag-spaghetti">
-
                     <div class="post_wrapper">
-
                         <div class="post_content_wrapper">
-
                             <div class="post_header">
                                 <div class="post_header_title">
                                     <h5><a href="#" title="Black Spaghetti with Rock Shrimp">Doğadan Beslenen Geleneksel Şifa Sofrası</a></h5>
-
                                 </div>
                                 <div class="post_img static">
                                     <a href="#">
                                         <img src="/images/deneme-yemek-2.jpg" alt="" class="" style="width:960px;height:365px;" />
                                     </a>
                                 </div>
+
                                 <br class="clear" />
+
                                 <p>Günümüz Türk mutfağı iki bölümden oluşur: Saray Mutfağı ve Yöresel Mutfak. 13. yüzyıldan 20. yüzyıla kadar varlığını sürdüren Osmanlı Devleti’nin mutfak kültürü, tarih boyunca geniş coğrafyalara yayılmasıyla birlikte büyük dönüşüm yaşadı.</p>
-                                    <div class="post_detail">
-                                        <span class="post_readmore"><a class="readmore" href="?page=osmanli-donem-mutfaklari-devami">Devamı</a></span>
-                                    </div>
+                                <div class="post_detail">
+                                    <span class="post_readmore"><a class="readmore" href="?page=osmanli-donem-mutfaklari-devami">Devamı</a></span>
+                                </div>
                             </div>
                         </div>
                     </div>
-
                 </div>
+
                 <br class="clear" />
-                <!-- End each blog post -->
+
             </div>
 
             <br class="clear" />
+
         </div>
     </div>
     <br class="clear" />
@@ -57,7 +50,6 @@
                                 <span class="menu_dots"></span>
                             <div class="post_detail menu_excerpt"></div>
                         </div>
-                        
                     </div>
                     <div class="one_half parallax_scroll_image last" style="width:65%;">
                         <div class="image_classic_frame expand">
@@ -66,7 +58,9 @@
                             </div>
                         </div>
                     </div>
+
                     <br class="clear" />
+
                 </div>
             </div>
         </div>
@@ -89,7 +83,6 @@
                                 <span class="menu_dots"></span>
                             <div class="post_detail menu_excerpt"></div>
                         </div>
-                        
                     </div>
                     <div class="one_half parallax_scroll_image last" style="width:65%;">
                         <div class="image_classic_frame expand">
@@ -98,7 +91,9 @@
                             </div>
                         </div>
                     </div>
+
                     <br class="clear" />
+
                 </div>
             </div>
         </div>
@@ -119,7 +114,6 @@
                                 <span class="menu_dots"></span>
                             <div class="post_detail menu_excerpt"></div>
                         </div>
-                        
                     </div>
                     <div class="one_half parallax_scroll_image last" style="width:65%;">
                         <div class="image_classic_frame expand">
@@ -128,7 +122,9 @@
                             </div>
                         </div>
                     </div>
+
                     <br class="clear" />
+
                 </div>
             </div>
         </div>
@@ -150,7 +146,6 @@
                                 <span class="menu_dots"></span>
                             <div class="post_detail menu_excerpt"></div>
                         </div>
-                        
                     </div>
                     <div class="one_half parallax_scroll_image last" style="width:65%;">
                         <div class="image_classic_frame expand">
@@ -159,7 +154,9 @@
                             </div>
                         </div>
                     </div>
+
                     <br class="clear" />
+
                 </div>
             </div>
         </div>
@@ -180,7 +177,6 @@
                                 <span class="menu_dots"></span>
                             <div class="post_detail menu_excerpt"></div>
                         </div>
-                        
                     </div>
                     <div class="one_half parallax_scroll_image last" style="width:65%;">
                         <div class="image_classic_frame expand">
@@ -189,7 +185,9 @@
                             </div>
                         </div>
                     </div>
+
                     <br class="clear" />
+
                 </div>
             </div>
         </div>
@@ -210,7 +208,6 @@
                                 <span class="menu_dots"></span>
                             <div class="post_detail menu_excerpt"></div>
                         </div>
-                        
                     </div>
                     <div class="one_half parallax_scroll_image last" style="width:65%;">
                         <div class="image_classic_frame expand">
@@ -219,7 +216,9 @@
                             </div>
                         </div>
                     </div>
+
                     <br class="clear" />
+
                 </div>
             </div>
         </div>
@@ -249,7 +248,9 @@
                             </div>
                         </div>
                     </div>
+
                     <br class="clear" />
+
                 </div>
             </div>
         </div>
@@ -279,7 +280,9 @@
                             </div>
                         </div>
                     </div>
+                    
                     <br class="clear" />
+                    
                 </div>
             </div>
         </div>
