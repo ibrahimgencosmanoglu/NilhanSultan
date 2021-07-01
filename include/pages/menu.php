@@ -1,8 +1,6 @@
 <div id="page_caption" class="hasbg parallax baseline ">
     <div class="parallax_overlay_header"></div>
     <div id="bg_regular" style="background-image:url(upload/abreakey-raw-foodphotography-squid-still-life.jpg);"></div>
-
-
     <div class="page_title_wrapper baseline" data-stellar-ratio="1.3">
         <div class="page_title_inner baseline">
             <h1 class="withtopbar">
@@ -19,8 +17,10 @@
                 <div class="inner">
                     <div style="margin:auto;width:100%;text-align:center;">
                         <h2 class="ppb_menu_title">ÇORBALAR</h2>
+
                         <br class="clear" />
                         <br/>
+
                         <div class="one_half ">
                             <div id="menu_3197" class="menu_content_classic">
                                 <h5 class="menu_post">
@@ -38,7 +38,9 @@
                             </div>
                         </div>
                     </div>
+
                     <br class="clear" />
+
                 </div>
             </div>
         </div>
@@ -53,8 +55,10 @@
                 <div class="inner">
                     <div style="margin:auto;width:100%;text-align:center;">
                         <h2 class="ppb_menu_title">BAŞLANGIÇLAR</h2>
+
                         <br class="clear" />
                         <br/>
+
                         <div class="one_half ">
                             <div id="menu_3197" class="menu_content_classic">
                                 <h5 class="menu_post">
@@ -231,9 +235,10 @@
                                 <div class="post_detail menu_excerpt">Yumurta / Sirke / Tuz</div>
                             </div>
                         </div>
-
                     </div>
+
                     <br class="clear" />
+
                 </div>
             </div>
         </div>
@@ -248,8 +253,10 @@
                 <div class="inner">
                     <div style="margin:auto;width:100%;text-align:center;">
                         <h2 class="ppb_menu_title">ANA YEMEKLER</h2>
+
                         <br class="clear" />
                         <br/>
+
                         <div class="one_half ">
                             <div id="menu_3197" class="menu_content_classic">
                                 <h5 class="menu_post">
@@ -355,7 +362,9 @@
                             </div>
                         </div>
                     </div>
+
                     <br class="clear" />
+
                 </div>
             </div>
         </div>
@@ -370,8 +379,10 @@
                 <div class="inner">
                     <div style="margin:auto;width:100%;text-align:center;">
                         <h2 class="ppb_menu_title">TATLILAR</h2>
+
                         <br class="clear" />
                         <br/>
+
                         <div class="one_half ">
                             <div id="menu_3197" class="menu_content_classic">
                                 <h5 class="menu_post">
@@ -445,7 +456,9 @@
                             </div>
                         </div>
                     </div>
+
                     <br class="clear" />
+
                 </div>
             </div>
         </div>
@@ -460,8 +473,10 @@
                 <div class="inner">
                     <div style="margin:auto;width:100%;text-align:center;">
                         <h2 class="ppb_menu_title">İÇECEKLER</h2>
+                        
                         <br class="clear" />
                         <br/>
+
                         <div class="one_half ">
                             <div id="menu_3197" class="menu_content_classic">
                                 <h5 class="menu_post">
@@ -486,9 +501,10 @@
                                 <div class="post_detail menu_excerpt">Yoğurt / Tuz / Su</div>
                             </div>
                         </div>
-                        
                     </div>
+
                     <br class="clear" />
+
                 </div>
             </div>
         </div>
@@ -503,8 +519,10 @@
                 <div class="inner">
                     <div style="margin:auto;width:100%;text-align:center;">
                         <h2 class="ppb_menu_title">KAHVALTI</h2>
+
                         <br class="clear" />
                         <br/>
+
                         <div class="one_half ">
                             <div id="menu_3197" class="menu_content_classic">
                                 <h5 class="menu_post">
@@ -572,7 +590,9 @@
                             </div>
                         </div>
                     </div>
+
                     <br class="clear" />
+                    
                 </div>
             </div>
         </div>

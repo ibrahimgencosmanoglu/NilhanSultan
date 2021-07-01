@@ -282,7 +282,7 @@
                     </div>
                     
                     <br class="clear" />
-                    
+
                 </div>
             </div>
         </div>
@@ -304,8 +304,10 @@
                                         <span class="menu_title">Kebab-ı Makiyan</span>
                                     </h5>
                                     <div class="post_detail menu_excerpt">Kebab-ı Makiyan: 1469’da Osmanlı mutfağının en önemli öznelerinden biri olan bu yemek, özel olarak pişirilir. </div>
+                                    
                                     <br class="clear" />
                                     <br/>
+
                                 </div>
                             </div>
                         </div><img src="/images/deneme-yemek.jpg" alt="" /></div>
@@ -321,8 +323,10 @@
                                         <span class="menu_title">Hums Lokması</span>
                                     </h5>
                                     <div class="post_detail menu_excerpt">15. yüzyılın bir başka sevilen lezzeti Hums Lokması, kuş üzümü ve tarçınla hazırlanan nohut ezmesidir. </div>
+                                    
                                     <br class="clear" />
                                     <br/>
+
                                 </div>
                             </div>
                         </div><img src="/images/deneme-yemek.jpg" alt="" /></div>
@@ -338,8 +342,10 @@
                                         <span class="menu_title">Karidye Pilakisi</span>
                                     </h5>
                                     <div class="post_detail menu_excerpt">1473 senesinde Topkapı Sarayı’nda ortaya çıkarılan bu lezzet, kabuklu deniz ürünlerinden oluşur.</div>
+                                    
                                     <br class="clear" />
                                     <br/>
+
                                 </div>
                             </div>
                         </div><img src="/images/deneme-yemek.jpg" alt="" /></div>
@@ -355,8 +361,10 @@
                                         <span class="menu_title">Borani-i Hassa</span>
                                     </h5>
                                     <div class="post_detail menu_excerpt">Soğan, yumurta, pirinç ve yoğurtlu ıspanak ile yapılan Türk mutfağının köklü yemeklerinden biridir. </div>
+                                    
                                     <br class="clear" />
                                     <br/>
+
                                 </div>
                             </div>
                         </div><img src="/images/deneme-yemek.jpg" alt="" /></div>
@@ -373,8 +381,10 @@
                                     </h5>
                                     <div class="post_detail menu_excerpt">16. en sevilen lezzetlerinden biri olan Ballı Mahmudiye tarçın, karanfil, kayısı ve Rezaki üzümü ve bademle bir araya gelen bir piliç yahnisidir.  
                                     </div>
+                                    
                                     <br class="clear" />
                                     <br/>
+
                                 </div>
                             </div>
                         </div><img src="/images/deneme-yemek.jpg" alt="" /></div>
@@ -390,8 +400,10 @@
                                         <span class="menu_title">Dane-i Sarı</span>
                                     </h5>
                                     <div class="post_detail menu_excerpt">Adını tarifinde bulunan safranın rengi sarıdan alan leziz bir pilavdır.  </div>
+                                    
                                     <br class="clear" />
                                     <br/>
+
                                 </div>
                             </div>
                         </div><img src="/images/deneme-yemek.jpg" alt="" /></div>
@@ -407,8 +419,10 @@
                                         <span class="menu_title">Kıyma Püryani Yufkada</span>
                                     </h5>
                                     <div class="post_detail menu_excerpt">1764 yılında ortaya çıkan yemek özel baharatlarla zenginleşen geleneksel köftelerimizden biridir.</div>
+                                    
                                     <br class="clear" />
                                     <br/>
+
                                 </div>
                             </div>
                         </div><img src="/images/deneme-yemek.jpg" alt="" /></div>
@@ -424,8 +438,10 @@
                                         <span class="menu_title">Vişneli Yaprak Sarması</span>
                                     </h5>
                                     <div class="post_detail menu_excerpt">1844 tarihli Vişneli Yaprak Sarması da en sağlıklı meyvelerimizden biri olan vişnenin sarma ile bir araya getirildiği eşsiz zeytinyağlılarımızdan biridir. </div>
+                                    
                                     <br class="clear" />
                                     <br/>
+
                                 </div>
                             </div>
                         </div><img src="/images/deneme-yemek.jpg" alt="" /></div>
@@ -441,8 +457,10 @@
                                         <span class="menu_title">Gerdaniyye</span>
                                     </h5>
                                     <div class="post_detail menu_excerpt"> Et ile sebze ve baharatın harmanlandığı en sevilen lezzetlerden biridir.</div>
+                                    
                                     <br class="clear" />
                                     <br/>
+
                                 </div>
                             </div>
                         </div><img src="/images/deneme-yemek.jpg" alt="" /></div>
@@ -458,8 +476,10 @@
                                         <span class="menu_title">Kuzu Kol Tandır, Firik Pilavı</span>
                                     </h5>
                                     <div class="post_detail menu_excerpt">Sunumuyla, tadıyla Türk mutfağının yıldız menülerinden biri olarak bilinen Kuzu Kol Tandır, Firik Pilavı; sofraların en sevilen yemeklerinden.</div>
+                                    
                                     <br class="clear" />
                                     <br/>
+
                                 </div>
                             </div>
                         </div><img src="/images/deneme-yemek.jpg" alt="" /></div>
@@ -475,8 +495,10 @@
                                         <span class="menu_title">Lor Mahlutu</span>
                                     </h5>
                                     <div class="post_detail menu_excerpt">1898 tarihli bu lezzet baharat, taze soğan, maydanoz, sivri biber ve domatesle harmanlanan sağlık dolu lor peyniridir.</div>
+                                    
                                     <br class="clear" />
                                     <br/>
+                                    
                                 </div>
                             </div>
                         </div><img src="/images/deneme-yemek.jpg" alt="" /></div>

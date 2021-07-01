@@ -1,23 +1,13 @@
-   <!-- Begin content -->
-   <div id="page_content_wrapper" class="hasbg withtopbar ">
+<div id="page_content_wrapper" class="hasbg withtopbar ">
     <div class="inner">
-
-        <!-- Begin main content -->
         <div class="inner_wrapper">
-
             <div class="sidebar_content full_width">
-
-                <!-- Begin each blog post -->
                 <div id="post-490" class="post-490 post type-post status-publish format-standard has-post-thumbnail hentry category-italine tag-recipe tag-shrimp tag-spaghetti">
-
                     <div class="post_wrapper">
-
                         <div class="post_content_wrapper">
-
                             <div class="post_header">
                                 <div class="post_header_title">
                                     <h5><a href="#" title="Black Spaghetti with Rock Shrimp">Doğadan Beslenen Geleneksel Şifa Sofrası</a></h5>
-
                                 </div>
                                 <div class="post_img static">
                                     <a href="#">
@@ -40,17 +30,20 @@
                             </div>
                         </div>
                     </div>
-
                 </div>
+
                 <br class="clear" />
-                <!-- End each blog post -->
+
             </div>
 
             <br class="clear" />
+
         </div>
     </div>
+
     <br class="clear" />
     <br/>
+
 </div>
 <div class="ppb_wrapper hasbg withtopbar">
     <div class="one ppb_menu_with_image" style="position:relative;padding:40px 0 40px 0;">
@@ -65,7 +58,6 @@
                                 <span class="menu_dots"></span>
                             <div class="post_detail menu_excerpt"></div>
                         </div>
-                        
                     </div>
                     <div class="one_half parallax_scroll_image last" style="width:65%;">
                         <div class="image_classic_frame expand">
@@ -74,7 +66,9 @@
                             </div>
                         </div>
                     </div>
+
                     <br class="clear" />
+
                 </div>
             </div>
         </div>
@@ -97,7 +91,6 @@
                                 <span class="menu_dots"></span>
                             <div class="post_detail menu_excerpt"></div>
                         </div>
-                        
                     </div>
                     <div class="one_half parallax_scroll_image last" style="width:65%;">
                         <div class="image_classic_frame expand">
@@ -106,7 +99,9 @@
                             </div>
                         </div>
                     </div>
+
                     <br class="clear" />
+
                 </div>
             </div>
         </div>
@@ -127,7 +122,6 @@
                                 <span class="menu_dots"></span>
                             <div class="post_detail menu_excerpt"></div>
                         </div>
-                        
                     </div>
                     <div class="one_half parallax_scroll_image last" style="width:65%;">
                         <div class="image_classic_frame expand">
@@ -136,7 +130,9 @@
                             </div>
                         </div>
                     </div>
+
                     <br class="clear" />
+
                 </div>
             </div>
         </div>
@@ -158,7 +154,6 @@
                                 <span class="menu_dots"></span>
                             <div class="post_detail menu_excerpt"></div>
                         </div>
-                        
                     </div>
                     <div class="one_half parallax_scroll_image last" style="width:65%;">
                         <div class="image_classic_frame expand">
@@ -167,7 +162,9 @@
                             </div>
                         </div>
                     </div>
+
                     <br class="clear" />
+
                 </div>
             </div>
         </div>
@@ -188,7 +185,6 @@
                                 <span class="menu_dots"></span>
                             <div class="post_detail menu_excerpt"></div>
                         </div>
-                        
                     </div>
                     <div class="one_half parallax_scroll_image last" style="width:65%;">
                         <div class="image_classic_frame expand">
@@ -197,7 +193,9 @@
                             </div>
                         </div>
                     </div>
+
                     <br class="clear" />
+
                 </div>
             </div>
         </div>
@@ -218,7 +216,6 @@
                                 <span class="menu_dots"></span>
                             <div class="post_detail menu_excerpt"></div>
                         </div>
-                        
                     </div>
                     <div class="one_half parallax_scroll_image last" style="width:65%;">
                         <div class="image_classic_frame expand">
@@ -227,7 +224,9 @@
                             </div>
                         </div>
                     </div>
+
                     <br class="clear" />
+
                 </div>
             </div>
         </div>
@@ -248,7 +247,6 @@
                                 <span class="menu_dots"></span>
                             <div class="post_detail menu_excerpt"></div>
                         </div>
-                        
                     </div>
                     <div class="one_half parallax_scroll_image last" style="width:65%;">
                         <div class="image_classic_frame expand">
@@ -257,7 +255,9 @@
                             </div>
                         </div>
                     </div>
+
                     <br class="clear" />
+
                 </div>
             </div>
         </div>
@@ -278,7 +278,6 @@
                                 <span class="menu_dots"></span>
                             <div class="post_detail menu_excerpt"></div>
                         </div>
-                        
                     </div>
                     <div class="one_half parallax_scroll_image last" style="width:65%;">
                         <div class="image_classic_frame expand">
@@ -287,7 +286,9 @@
                             </div>
                         </div>
                     </div>
+
                     <br class="clear" />
+
                 </div>
             </div>
         </div>
@@ -309,8 +310,10 @@
                                         <span class="menu_title">Kebab-ı Makiyan</span>
                                     </h5>
                                     <div class="post_detail menu_excerpt">Kebab-ı Makiyan: 1469’da Osmanlı mutfağının en önemli öznelerinden biri olan bu yemek, özel olarak pişirilir. </div>
+                                    
                                     <br class="clear" />
                                     <br/>
+
                                 </div>
                             </div>
                         </div><img src="/images/deneme-yemek.jpg" alt="" /></div>
@@ -326,8 +329,10 @@
                                         <span class="menu_title">Hums Lokması</span>
                                     </h5>
                                     <div class="post_detail menu_excerpt">15. yüzyılın bir başka sevilen lezzeti Hums Lokması, kuş üzümü ve tarçınla hazırlanan nohut ezmesidir. </div>
+                                    
                                     <br class="clear" />
                                     <br/>
+
                                 </div>
                             </div>
                         </div><img src="/images/deneme-yemek.jpg" alt="" /></div>
@@ -343,8 +348,10 @@
                                         <span class="menu_title">Karidye Pilakisi</span>
                                     </h5>
                                     <div class="post_detail menu_excerpt">1473 senesinde Topkapı Sarayı’nda ortaya çıkarılan bu lezzet, kabuklu deniz ürünlerinden oluşur.</div>
+                                    
                                     <br class="clear" />
                                     <br/>
+
                                 </div>
                             </div>
                         </div><img src="/images/deneme-yemek.jpg" alt="" /></div>
@@ -360,8 +367,10 @@
                                         <span class="menu_title">Borani-i Hassa</span>
                                     </h5>
                                     <div class="post_detail menu_excerpt">Soğan, yumurta, pirinç ve yoğurtlu ıspanak ile yapılan Türk mutfağının köklü yemeklerinden biridir. </div>
+                                    
                                     <br class="clear" />
                                     <br/>
+
                                 </div>
                             </div>
                         </div><img src="/images/deneme-yemek.jpg" alt="" /></div>
@@ -378,8 +387,10 @@
                                     </h5>
                                     <div class="post_detail menu_excerpt">16. en sevilen lezzetlerinden biri olan Ballı Mahmudiye tarçın, karanfil, kayısı ve Rezaki üzümü ve bademle bir araya gelen bir piliç yahnisidir.  
                                     </div>
+                                    
                                     <br class="clear" />
                                     <br/>
+
                                 </div>
                             </div>
                         </div><img src="/images/deneme-yemek.jpg" alt="" /></div>
@@ -395,8 +406,10 @@
                                         <span class="menu_title">Dane-i Sarı</span>
                                     </h5>
                                     <div class="post_detail menu_excerpt">Adını tarifinde bulunan safranın rengi sarıdan alan leziz bir pilavdır.  </div>
+                                    
                                     <br class="clear" />
                                     <br/>
+
                                 </div>
                             </div>
                         </div><img src="/images/deneme-yemek.jpg" alt="" /></div>
@@ -412,8 +425,10 @@
                                         <span class="menu_title">Kıyma Püryani Yufkada</span>
                                     </h5>
                                     <div class="post_detail menu_excerpt">1764 yılında ortaya çıkan yemek özel baharatlarla zenginleşen geleneksel köftelerimizden biridir.</div>
+                                    
                                     <br class="clear" />
                                     <br/>
+
                                 </div>
                             </div>
                         </div><img src="/images/deneme-yemek.jpg" alt="" /></div>
@@ -429,8 +444,10 @@
                                         <span class="menu_title">Vişneli Yaprak Sarması</span>
                                     </h5>
                                     <div class="post_detail menu_excerpt">1844 tarihli Vişneli Yaprak Sarması da en sağlıklı meyvelerimizden biri olan vişnenin sarma ile bir araya getirildiği eşsiz zeytinyağlılarımızdan biridir. </div>
+                                    
                                     <br class="clear" />
                                     <br/>
+
                                 </div>
                             </div>
                         </div><img src="/images/deneme-yemek.jpg" alt="" /></div>
@@ -446,8 +463,10 @@
                                         <span class="menu_title">Gerdaniyye</span>
                                     </h5>
                                     <div class="post_detail menu_excerpt"> Et ile sebze ve baharatın harmanlandığı en sevilen lezzetlerden biridir.</div>
+                                    
                                     <br class="clear" />
                                     <br/>
+
                                 </div>
                             </div>
                         </div><img src="/images/deneme-yemek.jpg" alt="" /></div>
@@ -463,8 +482,10 @@
                                         <span class="menu_title">Kuzu Kol Tandır, Firik Pilavı</span>
                                     </h5>
                                     <div class="post_detail menu_excerpt">Sunumuyla, tadıyla Türk mutfağının yıldız menülerinden biri olarak bilinen Kuzu Kol Tandır, Firik Pilavı; sofraların en sevilen yemeklerinden.</div>
+                                    
                                     <br class="clear" />
                                     <br/>
+
                                 </div>
                             </div>
                         </div><img src="/images/deneme-yemek.jpg" alt="" /></div>
@@ -480,8 +501,10 @@
                                         <span class="menu_title">Lor Mahlutu</span>
                                     </h5>
                                     <div class="post_detail menu_excerpt">1898 tarihli bu lezzet baharat, taze soğan, maydanoz, sivri biber ve domatesle harmanlanan sağlık dolu lor peyniridir.</div>
+                                    
                                     <br class="clear" />
                                     <br/>
+                                    
                                 </div>
                             </div>
                         </div><img src="/images/deneme-yemek.jpg" alt="" /></div>

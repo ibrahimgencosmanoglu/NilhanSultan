@@ -1,7 +1,5 @@
 ﻿<div class="footer_bar ">
-
 	<div id="footer_before_widget_text"></div>
-
 	<div id="footer" class="">
 		<ul class="sidebar_widget four">
 			<li id="text-5" class="widget widget_text">
@@ -18,7 +16,6 @@
 					<p>cv@nilhansultankosku.com</p>
 				</div>
 			</li>
-
 			<li id="text-6" class="widget widget_text">
 				<h2 class="widgettitle">KVKK </h2>
 				<!--<h2 class="widgettitle">Web Sitesi Kullanım Koşulları ve Çerez Politikası </h2>-->
@@ -26,7 +23,6 @@
 					<p>Web Sitesi Kullanım Koşulları ve Çerez Politikası</p>
 				</div>
 			</li>
-			
 			<li id="text-4" class="widget widget_text">
 				<div class="textwidget">
 					<p><img src="upload/logo_footer.png" alt="" width="142" height="42" /></p>
@@ -42,6 +38,7 @@
 			</li>
 		</ul>
 	</div>
+	
 	<br class="clear" />
 
 	<div class="footer_bar_wrapper ">

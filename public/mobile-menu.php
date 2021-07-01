@@ -8,17 +8,13 @@
             <li class="menu-item"><a href="kosk">Köşk</a></li>
         </ul>
     </div>
-    <!-- Begin Reservation 
-    <a href="javascript:;" id="tg_sidemenu_reservation" class="button ">Reservation</a>
-        End Reservation -->
-
-    <!-- Begin side menu sidebar -->
+ 
+   <!-- <a href="javascript:;" id="tg_sidemenu_reservation" class="button ">Reservation</a>-->
+ 
     <div class="page_content_wrapper">
         <div class="sidebar_wrapper">
             <div class="sidebar">
-
                 <div class="content">
-
                     <ul class="sidebar_widget">
                         <li id="text-8" class="widget widget_text">
                             <div class="textwidget">
@@ -30,11 +26,8 @@
                             </div>
                         </li>
                     </ul>
-
                 </div>
-
             </div>
         </div>
     </div>
-    <!-- End side menu sidebar -->
 </div>

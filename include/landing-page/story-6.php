@@ -16,7 +16,6 @@
 			<div class="inner">
 				<div style="margin:auto;width:100%;text-align:center;">
 					<p>Nilhan Sultan Paşalimanı’na 0216 310 1299 numarasından rezervasyon yaptırabilirsiniz. </p>
-					
 				</div>
 			</div>
 		</div>
