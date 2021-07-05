@@ -12,7 +12,7 @@
                     <div class="one_half parallax_scroll_image last" style="width:65%;">
                         <div class="image_classic_frame expand">
                             <div class="image_wrapper">
-                                <a href="upload/delivery.jpg" class="img_frame"><img src="images/1440x872-dummy1.jpg" class="portfolio_img" alt="" /></a>
+                                <a href="upload/delivery.jpg" class="img_frame"><img src="images/hakkimizda/hakk1.jpg" class="portfolio_img" alt="" /></a>
                             </div>
                         </div>
                     </div>
@@ -68,12 +68,12 @@
             </div>
         </div>
 
-    <div class="one withsmallpadding ppb_content_half_bg withbg " style="background-image:url(images/1440x960-dummy2.jpg);background-position: center center;padding:40px 0 40px 0;">
+    <div class="one withsmallpadding ppb_content_half_bg withbg " style="background-image:url(images/hakkimizda/hakk9.jpg);background-position: center center;padding:40px 0 40px 0;">
         <div class="standard_wrapper">
             <div class="page_content_wrapper">
                 <div class="inner">
                     <div class="one_half_bg floatright" style="background:#25252f;background:rgb(37,37,47,0.95);background:rgba(37,37,47,0.95);color:#ffffff;">
-                        <h2 class="ppb_title" style="color:#ffffff;"><span class="ppb_title_first" style="color:#ffffff;">Osmanlı Dönem Mutfakları </span>Yüzyılların İzinde Bir Mutfak Kültürü </h2>
+                        <h2 class="ppb_title" style="color:#ffffff;"><span class="ppb_title_first" style="color:#ffffff;">Osmanlı Dönem Mutfakları </span>YÜZYILLARIN İZİNDE BİR MUTFAK KÜLTÜRÜ </h2>
                         <div class="page_header_sep left" style="border-color:#ffffff"></div>
                         <p>Altı yüzyıllık Osmanlı İmparatorluğu Anadolu, Orta Asya, Kuzey Afrika, Orta Doğu ve Balkan coğrafyalarının en nadide lezzetlerinin damıtılmasıyla oluşmuş has bir mutfağa sahiptir. Sınırları içindeki her kültürün mutfağında derin izler bırakan bu gastronomik değeri bugünlere aktarmak bizler için önemli bir sorumluluktur.  Özellikle başkent İstanbul’da en seçkin biçimini alan, Osmanlı coğrafyasının bütün halklarının mutfak geleneklerine açık, buna karşılık Türk kültürünün ağır bastığı, aynı zamanda tarihten gelen köklü mirası da barındıran ve farklı dönemlere göre şekillenen Osmanlı mutfağını kendisine layık bir atmosferde misafirlerimize sunmak da bizim için bu sorumluluğun bir parçasıdır. </p>
                     </div>
@@ -85,42 +85,42 @@
         <div id="15700960721192256121" class="photo_wall_wrapper shortcode ">
             <div class="wall_entry ">
                 <div class="wall_thumbnail">
-                    <a class="fancy-gallery" href="upload/223_1r140806_eat_spots_sobanndls.jpg" title="Signature Dish"><img src="images/deneme-yemek.jpg" alt="" /></a>
+                    <a class="fancy-gallery" href="upload/223_1r140806_eat_spots_sobanndls.jpg" title="Signature Dish"><img src="images/hakkimizda/hakk2.jpg" alt="" /></a>
                 </div>
             </div>
             <div class="wall_entry ">
                 <div class="wall_thumbnail">
-                    <a class="fancy-gallery" href="upload/100_1040312_mercer_knives_0391_fweb.jpg" title=""><img src="images/deneme-yemek.jpg" alt="" /></a>
+                    <a class="fancy-gallery" href="upload/100_1040312_mercer_knives_0391_fweb.jpg" title=""><img src="images/hakkimizda/hakk3.jpg" alt="" /></a>
                 </div>
             </div>
             <div class="wall_entry ">
                 <div class="wall_thumbnail">
-                    <a class="fancy-gallery" href="upload/3250_1a_c_photography_restaurants___food_port_13_2.jpg" title=""><img src="images/deneme-yemek.jpg" alt="" /></a>
+                    <a class="fancy-gallery" href="upload/3250_1a_c_photography_restaurants___food_port_13_2.jpg" title=""><img src="images/hakkimizda/hakk4.jpg" alt="" /></a>
                 </div>
             </div>
             <div class="wall_entry ">
                 <div class="wall_thumbnail">
-                    <a class="fancy-gallery" href="upload/greg.jpg" title=""><img src="images/deneme-yemek.jpg" alt="" /></a>
+                    <a class="fancy-gallery" href="upload/greg.jpg" title=""><img src="images/hakkimizda/hakk5.jpg" alt="" /></a>
                 </div>
             </div>
             <div class="wall_entry ">
                 <div class="wall_thumbnail">
-                    <a class="fancy-gallery" href="upload/RTY-Shoyu-Bowl_LARGE.jpg" title="RTY-Shoyu-Bowl_LARGE"><img src="images/deneme-yemek.jpg" alt="" /></a>
+                    <a class="fancy-gallery" href="upload/RTY-Shoyu-Bowl_LARGE.jpg" title="RTY-Shoyu-Bowl_LARGE"><img src="images/hakkimizda/hakk5.jpg" alt="" /></a>
                 </div>
             </div>
             <div class="wall_entry ">
                 <div class="wall_thumbnail">
-                    <a class="fancy-gallery" href="upload/plae_bistro_ad_food_photography_milwaukee_advertising_photographer_appleton_wisconsin_culinary_photography_retouching_preparation_cuisine_11.jpg" title=""><img src="images/deneme-yemek.jpg" alt="" /></a>
+                    <a class="fancy-gallery" href="upload/plae_bistro_ad_food_photography_milwaukee_advertising_photographer_appleton_wisconsin_culinary_photography_retouching_preparation_cuisine_11.jpg" title=""><img src="images/hakkimizda/hakk6.jpg" alt="" /></a>
                 </div>
             </div>
             <div class="wall_entry ">
                 <div class="wall_thumbnail">
-                    <a class="fancy-gallery" href="upload/abreakey-raw-foodphotography-squid-still-life.jpg" title=""><img src="images/deneme-yemek.jpg" alt="" /></a>
+                    <a class="fancy-gallery" href="upload/abreakey-raw-foodphotography-squid-still-life.jpg" title=""><img src="images/hakkimizda/hakk7.jpg" alt="" /></a>
                 </div>
             </div>
             <div class="wall_entry ">
                 <div class="wall_thumbnail">
-                    <a class="fancy-gallery" href="upload/shutterstock_174816359_2.jpg" title=""><img src="images/deneme-yemek.jpg" alt="" /></a>
+                    <a class="fancy-gallery" href="upload/shutterstock_174816359_2.jpg" title=""><img src="images/hakkimizda/hakk8.jpg" alt="" /></a>
                 </div>
             </div>
         </div>

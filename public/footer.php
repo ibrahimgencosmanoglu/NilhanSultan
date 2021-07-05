@@ -25,7 +25,7 @@
 			</li>
 			<li id="text-4" class="widget widget_text">
 				<div class="textwidget">
-					<p><img src="upload/logo_footer.png" alt="" width="142" height="42" /></p>
+					<p><img src="images/pasalimani.svg" alt="Nihal Sultan Köşkü Paşalimanı" style="width:196px;" /></p>
 					<div class="social_wrapper shortcode dark ">
 						<ul>
 							<li class="facebook"><a target="_blank" title="Facebook" href="http://facebook.com/NSPasalimani" rel="noopener noreferrer"><i class="fa fa-facebook"></i></a></li>

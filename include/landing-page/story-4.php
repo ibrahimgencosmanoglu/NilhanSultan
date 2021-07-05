@@ -6,7 +6,7 @@
 				<div class="one_half parallax_scroll_image" style="width:65%;">
 					<div class="image_classic_frame expand">
 						<div class="image_wrapper">
-							<a href="upload/photo-1421622548261-c45bfe178854.jpg" class="img_frame"><img src="../images/1440x962-dummy1.jpg" class="portfolio_img" alt="" /></a>
+							<a href="upload/photo-1421622548261-c45bfe178854.jpg" class="img_frame"><img src="../images/landing-page/anasayfa4.jpg" class="portfolio_img" alt="" /></a>
 						</div>
 					</div>
 				</div>

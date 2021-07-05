@@ -1,10 +1,10 @@
 <div id="page_caption" class="hasbg parallax baseline ">
     <div class="parallax_overlay_header"></div>
-    <div id="bg_regular" style="background-image:url(upload/abreakey-raw-foodphotography-squid-still-life.jpg);"></div>
+    <div id="bg_regular" style="background-image:url(images/menu/menu1.jpg);"></div>
     <div class="page_title_wrapper baseline" data-stellar-ratio="1.3">
         <div class="page_title_inner baseline">
             <h1 class="withtopbar">
-                <span class="ppb_title_first" >Our</span>Menü
+                Menü
             </h1>
         </div>
     </div>
@@ -24,7 +24,7 @@
                         <div class="one_half ">
                             <div id="menu_3197" class="menu_content_classic">
                                 <h5 class="menu_post">
-                                    <span class="menu_title">Taneli Sebze Çorbası</span>
+                                    <span class="menu_title">TANELİ SEBZE ÇORBASI</span>
                                     <span class="menu_dots"></span></h5>
                                 <div class="post_detail menu_excerpt">Patates / Havuç / Kabak</div>
                             </div>
@@ -32,7 +32,7 @@
                         <div class="one_half last">
                             <div id="menu_3172" class="menu_content_classic">
                                 <h5 class="menu_post">
-                                    <span class="menu_title">Bütün Çorba (Soğuk Çorba)</span>
+                                    <span class="menu_title">BÜTÜN ÇORBA (SOĞUK ÇORBA)</span>
                                     <span class="menu_dots"></span></h5>
                                 <div class="post_detail menu_excerpt">Buğday / Nohut / Yoğurt</div>
                             </div>
@@ -45,7 +45,7 @@
             </div>
         </div>
     </div>
-    <div class="parallax title" data-image="upload/223_1r140806_eat_spots_sobanndls.jpg" data-width="1440" data-height="960" data-content-height="60">
+    <div class="parallax title" data-image="images/menu/menu2.jpg" data-width="1440" data-height="960" data-content-height="60">
         <div class="parallax_title">
             <h2 class="ppb_title"></div>
     </div>
@@ -243,7 +243,7 @@
             </div>
         </div>
     </div>
-    <div class="parallax title" data-image="upload/223_1r140806_eat_spots_sobanndls.jpg" data-width="1440" data-height="960" data-content-height="60">
+    <div class="parallax title" data-image="images/menu/menu3.jpg" data-width="1440" data-height="960" data-content-height="60">
         <div class="parallax_title">
             <h2 class="ppb_title"></h2></div>
     </div>
@@ -369,7 +369,7 @@
             </div>
         </div>
     </div>
-    <div class="parallax title" data-image="upload/223_1r140806_eat_spots_sobanndls.jpg" data-width="1440" data-height="960" data-content-height="60">
+    <div class="parallax title" data-image="images/menu/menu4.jpg" data-width="1440" data-height="960" data-content-height="60">
         <div class="parallax_title">
             <h2 class="ppb_title"></h2></div>
     </div>
@@ -463,7 +463,7 @@
             </div>
         </div>
     </div>
-    <div class="parallax title" data-image="upload/223_1r140806_eat_spots_sobanndls.jpg" data-width="1440" data-height="960" data-content-height="60">
+    <div class="parallax title" data-image="images/menu/menu5.jpg" data-width="1440" data-height="960" data-content-height="60">
         <div class="parallax_title">
             <h2 class="ppb_title"></h2></div>
     </div>
@@ -509,7 +509,7 @@
             </div>
         </div>
     </div>
-    <div class="parallax title" data-image="upload/223_1r140806_eat_spots_sobanndls.jpg" data-width="1440" data-height="960" data-content-height="60">
+    <div class="parallax title" data-image="images/menu/menu6.jpg" data-width="1440" data-height="960" data-content-height="60">
         <div class="parallax_title">
             <h2 class="ppb_title"></h2></div>
     </div>

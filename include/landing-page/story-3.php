@@ -1,5 +1,5 @@
 <div class="divider one">&nbsp;</div>
-<div class="parallax " data-image="/images/1440x810-dummy1" data-width="1440" data-height="810" data-content-height="60"></div>
+<div class="parallax " data-image="/images/landing-page/anasayfa3.jpg" data-width="1440" data-height="810" data-content-height="60"></div>
 <div class="divider one">&nbsp;</div>
 <div class="ppb_menu_multiple one nopadding " style="padding:40px 0 40px 0;">
 	<div class="page_content_wrapper fullwidth">
@@ -10,7 +10,7 @@
 						<div class="menu_multiple_wrapper" style="background:#000000;border: 1px solid #000000;">
 							<h2 class="ppb_title" style="color:#ffffff;">Menü</h2>
 							<div class="menu_multiple_content" style="color:#ffffff;">
-								<p>Nilhan Sultan Köşkü Paşalimanı’nın sultanlara layık yemekleri mevsimsel hasat dönemlerine göre doğal olarak yetiştirilen ürünlerle hazırlanır. Bu nedenle yaz ve kış aylarında bazı farklılıklar göstermektedir. Deniz ürünleri mevsimine göre Bozcaada ve Çanakkale kıyılarındaki denizlerden tedarik edilmektedir.  Yemeklerimizde tereyağı ve zeytinyağı dışında yağ kullanılmaz.</p>
+								<p>Nilhan Sultan Köşkü Paşalimanı’nın sultanlara layık yemekleri mevsimsel hasat dönemlerine göre doğal olarak yetiştirilen ürünlerle hazırlanır. Bu nedenle yaz ve kış aylarında bazı farklılıklar göstermektedir. Deniz ürünleri mevsimine göre Bozcaada ve Çanakkale kıyılarındaki denizden tedarik edilmektedir.  Yemeklerimizde tereyağı ve zeytinyağı dışında yağ kullanılmaz.</p>
 							</div>
 						</div>
 					</div>

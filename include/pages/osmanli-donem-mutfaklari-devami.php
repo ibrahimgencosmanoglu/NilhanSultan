@@ -11,7 +11,7 @@
                                 </div>
                                 <div class="post_img static">
                                     <a href="#">
-                                        <img src="/images/deneme-yemek-2.jpg" alt="" class="" style="width:960px;height:365px;" />
+                                        <img src="/images/osmanli-donem-mutfagi/odm1.jpg" alt="" class="" style="width:960px;height:365px;" />
                                     </a>
                                 </div>
                                     <br class="clear" />
@@ -54,15 +54,13 @@
                         <h2 class="ppb_menu_title">Kuzu Kapama</h2>
                         <div id="menu_2878" class="menu_content_classic">
                             <h5 class="menu_post">
-                                <span class="menu_title" style="background:#ffffff;">Kuzu Kapama geleneklerimizi, tarihimizi özetleyen çok ilginç bir hikâyeye sahiptir. Bir zamanlar bir kadın kuzu etinden oldukça leziz bir yemek yapar. Çocuklarına bu leziz yemekten biraz yedirir. Az miktarda kalan eti, mutfağında saklar. Acıkan kaynanası karnını doyurmak için mutfağa geldiğinde üstü kapanmış eti görür ve gelinine neden kuzuyu kapattığını sorar. Kadın da “Oğlun aç gelecek ne yapayım, ben de kuzuyu kapattım.” der. Osmanlı halk mutfağının en sevilen lezzetlerinden biri olan ve son dönemlerinde Saray Mutfağı’nda da yer alan Kuzu Kapama’nın etkileyici hikâyesi böyledir. </span>
-                                <span class="menu_dots"></span>
-                            <div class="post_detail menu_excerpt"></div>
+                            <div class="post_detail menu_excerpt">Kuzu Kapama geleneklerimizi, tarihimizi özetleyen çok ilginç bir hikâyeye sahiptir. Bir zamanlar bir kadın kuzu etinden oldukça leziz bir yemek yapar. Çocuklarına bu leziz yemekten biraz yedirir. Az miktarda kalan eti, mutfağında saklar. Acıkan kaynanası karnını doyurmak için mutfağa geldiğinde üstü kapanmış eti görür ve gelinine neden kuzuyu kapattığını sorar. Kadın da “Oğlun aç gelecek ne yapayım, ben de kuzuyu kapattım.” der. Osmanlı halk mutfağının en sevilen lezzetlerinden biri olan ve son dönemlerinde Saray Mutfağı’nda da yer alan Kuzu Kapama’nın etkileyici hikâyesi böyledir. </div>
                         </div>
                     </div>
                     <div class="one_half parallax_scroll_image last" style="width:65%;">
                         <div class="image_classic_frame expand">
                             <div class="image_wrapper">
-                                <a href="upload/223_1r140806_eat_spots_sobanndls.jpg" class="img_frame"><img src="images/1440x960-dummy1.jpg" class="portfolio_img" alt="" /></a>
+                                <a href="upload/223_1r140806_eat_spots_sobanndls.jpg" class="img_frame"><img src="images/osmanli-donem-mutfagi/odm2.jpg" class="portfolio_img" alt="" /></a>
                             </div>
                         </div>
                     </div>
@@ -85,17 +83,14 @@
                         <h2 class="ppb_menu_title">Karidesli Börek</h2>
                         <div id="menu_2878" class="menu_content_classic">
                             <h5 class="menu_post">
-                                <span class="menu_title" style="background:#ffffff;">Fatih Sultan Mehmet döneminin masraf defterine bakıldığında balık, istiridye, karides gibi deniz ürünlerine çok fazla rastlamaktayız. Bu da bu yıllarda deniz ürünlerine verilen önemi gözler önüne sermektedir. Ancak sonradan mutfağımıza dahil olan bu besinlerin özellikle Ramazan ayında çok fazla tüketilmediği gözlenmektedir. Sebebi de rivayete göre bir balığın söylediği şu sözlerdir: “Beni yiyen doymasın, beni tutan olmasın.” Bu rivayetle ilgili olarak balığın tok tutmayacağı düşüncesi yayılmış ve Ramazan ayında deniz ürünleri tüketiminin azaldığı gözlenmiştir. 
-                                Ancak karidesli böreğin mutfağımızdaki yeri çok farklıdır. Çünkü Osmanlı mutfağında pişirilen hamur işlerine bakıldığında bu lezzet dışında deniz ürünlerinin kullanıldığı herhangi bir börek ya da çörek çeşidi yoktur. 
-                                </span>
-                                <span class="menu_dots"></span>
-                            <div class="post_detail menu_excerpt"></div>
+                            <div class="post_detail menu_excerpt">Fatih Sultan Mehmet döneminin masraf defterine bakıldığında balık, istiridye, karides gibi deniz ürünlerine çok fazla rastlamaktayız. Bu da bu yıllarda deniz ürünlerine verilen önemi gözler önüne sermektedir. Ancak sonradan mutfağımıza dahil olan bu besinlerin özellikle Ramazan ayında çok fazla tüketilmediği gözlenmektedir. Sebebi de rivayete göre bir balığın söylediği şu sözlerdir: “Beni yiyen doymasın, beni tutan olmasın.” Bu rivayetle ilgili olarak balığın tok tutmayacağı düşüncesi yayılmış ve Ramazan ayında deniz ürünleri tüketiminin azaldığı gözlenmiştir. 
+                                Ancak karidesli böreğin mutfağımızdaki yeri çok farklıdır. Çünkü Osmanlı mutfağında pişirilen hamur işlerine bakıldığında bu lezzet dışında deniz ürünlerinin kullanıldığı herhangi bir börek ya da çörek çeşidi yoktur.</div>
                         </div>
                     </div>
                     <div class="one_half parallax_scroll_image last" style="width:65%;">
                         <div class="image_classic_frame expand">
                             <div class="image_wrapper">
-                                <a href="upload/223_1r140806_eat_spots_sobanndls.jpg" class="img_frame"><img src="images/1440x960-dummy1.jpg" class="portfolio_img" alt="" /></a>
+                                <a href="upload/223_1r140806_eat_spots_sobanndls.jpg" class="img_frame"><img src="images/osmanli-donem-mutfagi/odm3.jpg" class="portfolio_img" alt="" /></a>
                             </div>
                         </div>
                     </div>
@@ -118,15 +113,13 @@
                         <h2 class="ppb_menu_title">Sütlü Dil Balığı Güveci</h2>
                         <div id="menu_2878" class="menu_content_classic">
                             <h5 class="menu_post">
-                                <span class="menu_title" style="background:#ffffff;">Rivayete göre II. Abdülhamid, lüfer balığının yanağında bulunan eti çok sevdiği ve kendisi için özel hazırlanıp sunulduğu bilinmektedir. Sütle yapılan balık ve et yemeklerinin ayrı bir inceliğinin olduğu bilinmektedir. Osmanlı mutfağında pişirilmeden evvel ete nüfuz ettirilen süt, pişirilirken de kuş tüyü ile yeniden ete sürülürdü.</span>
-                                <span class="menu_dots"></span>
-                            <div class="post_detail menu_excerpt"></div>
+                            <div class="post_detail menu_excerpt">Rivayete göre II. Abdülhamid, lüfer balığının yanağında bulunan eti çok sevdiği ve kendisi için özel hazırlanıp sunulduğu bilinmektedir. Sütle yapılan balık ve et yemeklerinin ayrı bir inceliğinin olduğu bilinmektedir. Osmanlı mutfağında pişirilmeden evvel ete nüfuz ettirilen süt, pişirilirken de kuş tüyü ile yeniden ete sürülürdü.</div>
                         </div>
                     </div>
                     <div class="one_half parallax_scroll_image last" style="width:65%;">
                         <div class="image_classic_frame expand">
                             <div class="image_wrapper">
-                                <a href="upload/223_1r140806_eat_spots_sobanndls.jpg" class="img_frame"><img src="images/1440x960-dummy1.jpg" class="portfolio_img" alt="" /></a>
+                                <a href="upload/223_1r140806_eat_spots_sobanndls.jpg" class="img_frame"><img src="images/osmanli-donem-mutfagi/odm4.jpg" class="portfolio_img" alt="" /></a>
                             </div>
                         </div>
                     </div>
@@ -149,16 +142,14 @@
                         <h2 class="ppb_menu_title">İstanbul Pilavı</h2>
                         <div id="menu_2878" class="menu_content_classic">
                             <h5 class="menu_post">
-                                <span class="menu_title" style="background:#ffffff;">Osmanlı Sultanları ve halk, pilavı çok severdi; hatta sultanların adları bile verilirdir bu pilavlara. Ali Paşa Pilavı, Sultan Reşat Pilavı…
-                                Sarayın muhasebe kayıtlarına bakıldığında bir senede tonlarca pilav tüketildiği bilinmektedir. Ayrıca çeşit çeşittir de Osmanlı mutfağının pilavları. Mesela Evliya Çelebi Seyahatnâme’sinde Bitlis Beyi’nin halka verdiği bir ziyafette keklik pilavı, çilav, derman, dut, badem pilavı gibi toplamda 13 tür pilav çeşidi saymıştır. Böylesine sevilen pilavlardan biridir İstanbul Pilavı da. Bol sebzeli, lezzetli…</span>
-                                <span class="menu_dots"></span>
-                            <div class="post_detail menu_excerpt"></div>
+                            <div class="post_detail menu_excerpt">Osmanlı Sultanları ve halk, pilavı çok severdi; hatta sultanların adları bile verilirdir bu pilavlara. Ali Paşa Pilavı, Sultan Reşat Pilavı…
+                                Sarayın muhasebe kayıtlarına bakıldığında bir senede tonlarca pilav tüketildiği bilinmektedir. Ayrıca çeşit çeşittir de Osmanlı mutfağının pilavları. Mesela Evliya Çelebi Seyahatnâme’sinde Bitlis Beyi’nin halka verdiği bir ziyafette keklik pilavı, çilav, derman, dut, badem pilavı gibi toplamda 13 tür pilav çeşidi saymıştır. Böylesine sevilen pilavlardan biridir İstanbul Pilavı da. Bol sebzeli, lezzetli…</div>
                         </div>
                     </div>
                     <div class="one_half parallax_scroll_image last" style="width:65%;">
                         <div class="image_classic_frame expand">
                             <div class="image_wrapper">
-                                <a href="upload/223_1r140806_eat_spots_sobanndls.jpg" class="img_frame"><img src="images/1440x960-dummy1.jpg" class="portfolio_img" alt="" /></a>
+                                <a href="upload/223_1r140806_eat_spots_sobanndls.jpg" class="img_frame"><img src="images/osmanli-donem-mutfagi/odm5.jpg" class="portfolio_img" alt="" /></a>
                             </div>
                         </div>
                     </div>
@@ -181,15 +172,13 @@
                         <h2 class="ppb_menu_title">Soğanlı Muska Böreği</h2>
                         <div id="menu_2878" class="menu_content_classic">
                             <h5 class="menu_post">
-                                <span class="menu_title" style="background:#ffffff;">Osmanlı mutfağının en eski ve en sevilen böreklerinden biridir Soğanlı Muska Böreği. Saray mutfağında da halk mutfağında da oldukça popülerdir. Özellikle 18. ve 19. yüzyıllarda çok fazla yapılan bir lezzet olarak bilinen Soğanlı Muska Böreği, günümüzde unutulan, eski popülerliğini yitiren hamur işlerinden biridir. Osmanlı mutfağı börekleri, İsveçli Tarihçi Ignatius Mouradgea d’Ohsson’un 1788 senesinde yayımlanan kitabında bile yer alır. Böreklerin halkın çok sevdiği yemeklerden biri olduğundan; lezzeti, hafifliği ve kat kat yapraklı olması sebebiyle Avrupa pastalarına benzediğinden ve et, meyve, sebze gibi her türlü besin kaynağı kullanılarak yapıldığından bahsetmiştir.</span>
-                                <span class="menu_dots"></span>
-                            <div class="post_detail menu_excerpt"></div>
+                            <div class="post_detail menu_excerpt">Osmanlı mutfağının en eski ve en sevilen böreklerinden biridir Soğanlı Muska Böreği. Saray mutfağında da halk mutfağında da oldukça popülerdir. Özellikle 18. ve 19. yüzyıllarda çok fazla yapılan bir lezzet olarak bilinen Soğanlı Muska Böreği, günümüzde unutulan, eski popülerliğini yitiren hamur işlerinden biridir. Osmanlı mutfağı börekleri, İsveçli Tarihçi Ignatius Mouradgea d’Ohsson’un 1788 senesinde yayımlanan kitabında bile yer alır. Böreklerin halkın çok sevdiği yemeklerden biri olduğundan; lezzeti, hafifliği ve kat kat yapraklı olması sebebiyle Avrupa pastalarına benzediğinden ve et, meyve, sebze gibi her türlü besin kaynağı kullanılarak yapıldığından bahsetmiştir.</div>
                         </div>
                     </div>
                     <div class="one_half parallax_scroll_image last" style="width:65%;">
                         <div class="image_classic_frame expand">
                             <div class="image_wrapper">
-                                <a href="upload/223_1r140806_eat_spots_sobanndls.jpg" class="img_frame"><img src="images/1440x960-dummy1.jpg" class="portfolio_img" alt="" /></a>
+                                <a href="upload/223_1r140806_eat_spots_sobanndls.jpg" class="img_frame"><img src="images/osmanli-donem-mutfagi/odm6.jpg" class="portfolio_img" alt="" /></a>
                             </div>
                         </div>
                     </div>
@@ -212,15 +201,13 @@
                         <h2 class="ppb_menu_title">Keşkül-ü Fukara</h2>
                         <div id="menu_2878" class="menu_content_classic">
                             <h5 class="menu_post">
-                                <span class="menu_title" style="background:#ffffff;">Rivayete göre keşkül adı verilen kaplara tatlı konularak dağıtıldığı için bu isimle adlandırılmıştır Keşkül-ü Fukara. Bir başka hikâyeye göre de bu tatlı ismini Osmanlı döneminde kazanlarla yapılan, fakirlere dağıtıldığı için Yoksul Çanağı olarak da bilinen Keşkül-ü Fukara’dan almıştır. Eski bir Anadolu geleneği olan tatlıların üzerine kuruyemiş koyma adetine bağlı kalan bol badem ve Antep fıstıklı enfes bir Osmanlı tatlısıdır.</span>
-                                <span class="menu_dots"></span>
-                            <div class="post_detail menu_excerpt"></div>
+                            <div class="post_detail menu_excerpt">Rivayete göre keşkül adı verilen kaplara tatlı konularak dağıtıldığı için bu isimle adlandırılmıştır Keşkül-ü Fukara. Bir başka hikâyeye göre de bu tatlı ismini Osmanlı döneminde kazanlarla yapılan, fakirlere dağıtıldığı için Yoksul Çanağı olarak da bilinen Keşkül-ü Fukara’dan almıştır. Eski bir Anadolu geleneği olan tatlıların üzerine kuruyemiş koyma adetine bağlı kalan bol badem ve Antep fıstıklı enfes bir Osmanlı tatlısıdır.</div>
                         </div>
                     </div>
                     <div class="one_half parallax_scroll_image last" style="width:65%;">
                         <div class="image_classic_frame expand">
                             <div class="image_wrapper">
-                                <a href="upload/223_1r140806_eat_spots_sobanndls.jpg" class="img_frame"><img src="images/1440x960-dummy1.jpg" class="portfolio_img" alt="" /></a>
+                                <a href="upload/223_1r140806_eat_spots_sobanndls.jpg" class="img_frame"><img src="images/osmanli-donem-mutfagi/odm7.jpg" class="portfolio_img" alt="" /></a>
                             </div>
                         </div>
                     </div>
@@ -243,15 +230,13 @@
                         <h2 class="ppb_menu_title">Lalanga</h2>
                         <div id="menu_2878" class="menu_content_classic">
                             <h5 class="menu_post">
-                                <span class="menu_title" style="background:#ffffff;">Eski Bizanslıların “lalagia” olarak isimlendirdikleri, günümüz Avrupa ülkelerinde de krep olarak adlandırılan çok sevilen bir hamur işidir. Bizans zenginleri bunu bala batırarak yerken Osmanlı saray mutfağında da en çok peynir ve balla yenirdi. Bal, pekmez, kaymak, şurup gibi malzemelerle tatlı olarak; peynir, kıyma, patates, tavuk gibi besinlerle de tuzlu olarak tüketilen Lalanga, tarihi en eskilere dayanan lezzetlerimizden biri.</span>
-                                <span class="menu_dots"></span>
-                            <div class="post_detail menu_excerpt"></div>
+                            <div class="post_detail menu_excerpt">Eski Bizanslıların “lalagia” olarak isimlendirdikleri, günümüz Avrupa ülkelerinde de krep olarak adlandırılan çok sevilen bir hamur işidir. Bizans zenginleri bunu bala batırarak yerken Osmanlı saray mutfağında da en çok peynir ve balla yenirdi. Bal, pekmez, kaymak, şurup gibi malzemelerle tatlı olarak; peynir, kıyma, patates, tavuk gibi besinlerle de tuzlu olarak tüketilen Lalanga, tarihi en eskilere dayanan lezzetlerimizden biri.</div>
                         </div>
                     </div>
                     <div class="one_half parallax_scroll_image last" style="width:65%;">
                         <div class="image_classic_frame expand">
                             <div class="image_wrapper">
-                                <a href="upload/223_1r140806_eat_spots_sobanndls.jpg" class="img_frame"><img src="images/1440x960-dummy1.jpg" class="portfolio_img" alt="" /></a>
+                                <a href="upload/223_1r140806_eat_spots_sobanndls.jpg" class="img_frame"><img src="images/osmanli-donem-mutfagi/odm8.jpg" class="portfolio_img" alt="" /></a>
                             </div>
                         </div>
                     </div>
@@ -282,7 +267,7 @@
                     <div class="one_half parallax_scroll_image last" style="width:65%;">
                         <div class="image_classic_frame expand">
                             <div class="image_wrapper">
-                                <a href="upload/223_1r140806_eat_spots_sobanndls.jpg" class="img_frame"><img src="images/1440x960-dummy1.jpg" class="portfolio_img" alt="" /></a>
+                                <a href="upload/223_1r140806_eat_spots_sobanndls.jpg" class="img_frame"><img src="images/osmanli-donem-mutfagi/odm9.jpg" class="portfolio_img" alt="" /></a>
                             </div>
                         </div>
                     </div>
@@ -316,26 +301,7 @@
 
                                 </div>
                             </div>
-                        </div><img src="/images/deneme-yemek.jpg" alt="" /></div>
-                </div>
-                <div class="element classic3_cols">
-                    <div class="one_fourth gallery4 filterable grid_image static animated2">
-                        <div id="portfolio_desc_3197" class="portfolio_desc grid_image portfolio4 filterable ">
-                            <div class="grid_image_frame">
-                                <div id="menu_3197" class="menu_content_classic center">
-                                    <h5 class="menu_post">
-                                        <span ><h2 class="white-text" style="color: white;">15. YÜZYIL</h2></span>
-                                        </br>
-                                        <span class="menu_title">Hums Lokması</span>
-                                    </h5>
-                                    <div class="post_detail menu_excerpt">15. yüzyılın bir başka sevilen lezzeti Hums Lokması, kuş üzümü ve tarçınla hazırlanan nohut ezmesidir. </div>
-                                    
-                                    <br class="clear" />
-                                    <br/>
-
-                                </div>
-                            </div>
-                        </div><img src="/images/deneme-yemek.jpg" alt="" /></div>
+                        </div><img src="/images/osmanli-donem-mutfagi/odm10.jpg" alt="" /></div>
                 </div>
                 <div class="element classic3_cols">
                     <div class="one_fourth gallery4 filterable grid_image static animated3">
@@ -354,7 +320,7 @@
 
                                 </div>
                             </div>
-                        </div><img src="/images/deneme-yemek.jpg" alt="" /></div>
+                        </div><img src="/images/osmanli-donem-mutfagi/odm12.jpg" alt="" /></div>
                 </div>
                 <div class="element classic3_cols">
                     <div class="one_fourth gallery4 filterable grid_image static animated4">
@@ -373,27 +339,7 @@
 
                                 </div>
                             </div>
-                        </div><img src="/images/deneme-yemek.jpg" alt="" /></div>
-                </div>
-                <div class="element classic3_cols">
-                    <div class="one_fourth gallery4 filterable grid_image static animated5">
-                        <div id="portfolio_desc_3192" class="portfolio_desc grid_image portfolio4 filterable ">
-                            <div class="grid_image_frame">
-                                <div id="menu_3192" class="menu_content_classic center">
-                                    <h5 class="menu_post">
-                                        <span ><h2 class="white-text" style="color: white;">16. YÜZYIL</h2></span>
-                                        </br>
-                                        <span class="menu_title">Ballı Mahmudiye</span>
-                                    </h5>
-                                    <div class="post_detail menu_excerpt">16. en sevilen lezzetlerinden biri olan Ballı Mahmudiye tarçın, karanfil, kayısı ve Rezaki üzümü ve bademle bir araya gelen bir piliç yahnisidir.  
-                                    </div>
-                                    
-                                    <br class="clear" />
-                                    <br/>
-
-                                </div>
-                            </div>
-                        </div><img src="/images/deneme-yemek.jpg" alt="" /></div>
+                        </div><img src="/images/osmanli-donem-mutfagi/odm10.jpg" alt="" /></div>
                 </div>
                 <div class="element classic3_cols">
                     <div class="one_fourth gallery4 filterable grid_image static animated6">
@@ -412,26 +358,7 @@
 
                                 </div>
                             </div>
-                        </div><img src="/images/deneme-yemek.jpg" alt="" /></div>
-                </div>
-                <div class="element classic3_cols">
-                    <div class="one_fourth gallery4 filterable grid_image static animated7">
-                        <div id="portfolio_desc_3194" class="portfolio_desc grid_image portfolio4 filterable ">
-                            <div class="grid_image_frame">
-                                <div id="menu_3194" class="menu_content_classic center">
-                                    <h5 class="menu_post">
-                                        <span ><h2 class="white-text" style="color: white;">18. YÜZYIL</h2></span>
-                                        </br>
-                                        <span class="menu_title">Kıyma Püryani Yufkada</span>
-                                    </h5>
-                                    <div class="post_detail menu_excerpt">1764 yılında ortaya çıkan yemek özel baharatlarla zenginleşen geleneksel köftelerimizden biridir.</div>
-                                    
-                                    <br class="clear" />
-                                    <br/>
-
-                                </div>
-                            </div>
-                        </div><img src="/images/deneme-yemek.jpg" alt="" /></div>
+                        </div><img src="/images/osmanli-donem-mutfagi/odm10.jpg" alt="" /></div>
                 </div>
                 <div class="element classic3_cols">
                     <div class="one_fourth gallery4 filterable grid_image static animated8">
@@ -450,7 +377,7 @@
 
                                 </div>
                             </div>
-                        </div><img src="/images/deneme-yemek.jpg" alt="" /></div>
+                        </div><img src="/images/osmanli-donem-mutfagi/odm12.jpg" alt="" /></div>
                 </div>
                 <div class="element classic3_cols">
                     <div class="one_fourth gallery4 filterable grid_image static animated1">
@@ -469,7 +396,7 @@
 
                                 </div>
                             </div>
-                        </div><img src="/images/deneme-yemek.jpg" alt="" /></div>
+                        </div><img src="/images/osmanli-donem-mutfagi/odm12.jpg" alt="" /></div>
                 </div>
                 <div class="element classic3_cols">
                     <div class="one_fourth gallery4 filterable grid_image static animated1">
@@ -488,7 +415,7 @@
 
                                 </div>
                             </div>
-                        </div><img src="/images/deneme-yemek.jpg" alt="" /></div>
+                        </div><img src="/images/osmanli-donem-mutfagi/odm12.jpg" alt="" /></div>
                 </div>
                 <div class="element classic3_cols">
                     <div class="one_fourth gallery4 filterable grid_image static animated1">
@@ -507,7 +434,7 @@
                                     
                                 </div>
                             </div>
-                        </div><img src="/images/deneme-yemek.jpg" alt="" /></div>
+                        </div><img src="/images/osmanli-donem-mutfagi/odm12.jpg" alt="" /></div>
                 </div>
             </div>
         </div>

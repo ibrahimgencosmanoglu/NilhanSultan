@@ -1,11 +1,11 @@
 ﻿<div class="mobile_menu_wrapper">
     <div class="menu-main-menu-container">
         <ul id="mobile_main_menu" class="mobile_main_nav">
-            <li class="menu-item current-menu-item"><a href="/" aria-current="page">Ana Sayfa</a></li>
+            <li class="menu-item current-menu-item"><a href="/index.php" aria-current="page">Ana Sayfa</a></li>
             <li class="menu-item"><a href="menu">Menü</a></li>
             <li class="menu-item"><a href="hakkimizda">Hakkımızda</a></li>
             <li class="menu-item"><a href="osmanli-donem-mutfaklari">Osmanlı Dönem Mutfakları</a></li>
-            <li class="menu-item"><a href="kosk">Köşk</a></li>
+            <!--<li class="menu-item"><a href="kosk">Köşk</a></li>-->
         </ul>
     </div>
  
@@ -18,7 +18,7 @@
                     <ul class="sidebar_widget">
                         <li id="text-8" class="widget widget_text">
                             <div class="textwidget">
-                                <p><img src="upload/logo_footer.png" alt="" width="142" height="42" /></p>
+                                <p><img src="images/pasalimani.svg" alt="Nihal Sultan Köşkü Paşalimanı" style="width:196px;" /></p>
                                 <div style="margin-bottom:20px;">
                                     Nilhan Sultan Köşkü Paşalimanı'nda saraylara layık sofralar, sultanlara layık menüler misafirlerini bekliyor.
                                 </div>

@@ -1,4 +1,4 @@
-<div class="one withsmallpadding withbg " style="color:#ffffff;background-image:url(images/1440x1440-dummy1.jpg);background-size:cover; ">
+<div class="one withsmallpadding withbg " style="color:#ffffff;background-image:url(images/landing-page/anasayfa5-2.jpg);background-size:cover; ">
 	<div class="standard_wrapper">
 		<div class="page_content_wrapper" style="text-align:center">
 			<div class="inner">

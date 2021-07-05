@@ -31,7 +31,7 @@
                                     <br/>
                                 </div>
                             </div>
-                        </div><img src="/images/deneme-yemek.jpg" alt="" /></div>
+                        </div><img src="/images/landing-page/anasayfaserbet.jpg" alt="" /></div>
                 </div>
                 <div class="element classic3_cols">
                     <div class="one_fourth gallery4 filterable grid_image static animated2">
@@ -60,7 +60,7 @@
                                     <br/>
                                 </div>
                             </div>
-                        </div><img src="/images/deneme-yemek.jpg" alt="" /></div>
+                        </div><img src="/images/landing-page/anasayfabaharat.jpeg" alt="" /></div>
                 </div>
                 <div class="element classic3_cols">
                     <div class="one_fourth gallery4 filterable grid_image static animated3">
@@ -83,7 +83,7 @@
                                     <br/>
                                 </div>
                             </div>
-                        </div><img src="/images/deneme-yemek.jpg" alt="" /></div>
+                        </div><img src="/images/landing-page/anasayfayag.jpeg" alt="" /></div>
                 </div>
                 <div class="element classic3_cols">
                     <div class="one_fourth gallery4 filterable grid_image static animated4">
@@ -114,7 +114,7 @@
                                     <br/>
                                 </div>
                             </div>
-                        </div><img src="/images/deneme-yemek.jpg" alt="" /></div>
+                        </div><img src="/images/landing-page/anasayfacay.jpeg" alt="" /></div>
                 </div>
             </div>
         </div>

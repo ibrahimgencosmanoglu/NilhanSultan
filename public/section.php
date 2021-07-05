@@ -37,11 +37,11 @@
 				
 					break;
 
-					case 'kosk';
+					 case 'kosk';
 					
-						include_once 'include/pages/kosk.php';
+					 	include_once 'include/pages/kosk.php';
 				
-					break;
+					 break;
 
 					case 'osmanli-donem-mutfaklari';
 					

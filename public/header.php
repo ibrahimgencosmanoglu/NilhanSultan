@@ -25,16 +25,16 @@
             <!-- Begin logo -->
             <div id="logo_normal" class="logo_container">
                 <div class="logo_align">
-                    <a id="custom_logo" class="logo_wrapper hidden" href="/">
-                        <img src="images/dummylogo.png" alt="Grand Restaurant | Restaurant Theme" width="142" height="42" style="width:142px;height:42px;" />
+                    <a id="custom_logo" class="logo_wrapper hidden" href="/index.php">
+                    <img src="images/pasalimani.svg" alt="Nihal Sultan Köşkü Paşalimanı" style="width:196px;" />
                     </a>
                 </div>
             </div>
 
             <div id="logo_transparent" class="logo_container">
                 <div class="logo_align">
-                    <a id="custom_logo_transparent" class="logo_wrapper default" href="/">
-                        <img src="images/dummylogo.png" alt="Grand Restaurant | Restaurant Theme" width="142" height="42" style="width:142px;height:42px;" />
+                    <a id="custom_logo_transparent" class="logo_wrapper default" href="/index.php">
+                    <img src="images/pasalimani.svg" alt="Nihal Sultan Köşkü Paşalimanı" style="width:196px;" />
                     </a>
                 </div>
             </div>
@@ -61,12 +61,12 @@
                     <div id="menu_border_wrapper">
                         <div class="menu-main-menu-container">
                             <ul id="main_menu" class="nav">
-                                <li class="menu-item"><a href="/" aria-current="page">Ana Sayfa</a></li>
+                                <li class="menu-item"><a href="/index.php" aria-current="page">Ana Sayfa</a></li>
                                 <li class="menu-item"><a href="menu" >Menü </a></li>
                                 <li class="menu-item"><a href="hakkimizda" >Hakkımızda</a></li>
                                 <li class="menu-item"><a href="osmanli-donem-mutfaklari" >Osmanlı Dönem Mutfakları</a></li>
-                                <li class="menu-item"><a href="kosk" >Köşk</a></li>
-                                <!--<li class="menu-item"><a href="latest-news.html">News</a></li>!-->
+                                <!--<li class="menu-item"><a href="kosk" >Köşk</a></li>
+                                <li class="menu-item"><a href="latest-news.html">News</a></li>!-->
                             </ul>
                         </div>
                     </div>
